@@ -1,8 +1,9 @@
-var/
-app/
-public/
-scripts/
-tests/
+/var/
+/app/
+/public/
+/scripts/
+/tests/
+/hosting/
 .DS_Store
 *.sqlite*
 .env*

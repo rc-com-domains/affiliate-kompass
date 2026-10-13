@@ -30,3 +30,20 @@ Neue Luna-Abgleiche und Veröffentlichungen sind deaktiviert. Freigaben dienen d
 Das Repository ist privat. Die Prüfdatei erhält ausschließlich der Personenkreis mit Repository-Zugriff oder einer ausdrücklich weitergegebenen Dateikopie. Eine heruntergeladene Datei hat keinen zusätzlichen Login.
 
 Diese Phase stellt die Prüf-HTML bereit. Eine dauerhaft gehostete HTTPS-Ansicht mit Login, zentraler Datenbank und Luna-Anbindung ist ein späterer Ausbauschritt. GitHub zeigt HTML im Repository als Quelltext; die Datei wird zum Durchklicken im Browser geöffnet.
+
+## HTTPS-Prüfversion
+
+https://affiliate-kompass-pruefung.brawny-snow-5908.chatgpt.site
+
+Die Prüfversion läuft als serverseitiger Worker. Ein eigenes Anwendungspasswort schützt die Auslieferung der gesamten HTML und des eingebetteten Bestands. Zusätzlich ist der Hosting-Zugang aktuell auf den Eigentümer beschränkt; die Freigabe für externe Besucher wurde von der automatischen Freigabeprüfung abgelehnt.
+
+- HTTPS; Passwort-Hash und Sitzungsschlüssel ausschließlich in den Hosting-Secrets.
+- Signierte Sitzung für zwölf Stunden, Cookie Secure/HttpOnly/SameSite=Strict.
+- noindex/nofollow/noarchive als HTTP-Header und HTML-Meta; robots.txt sperrt Crawling.
+- Keine Browser- oder Proxy-Zwischenspeicherung.
+- Kein Zugriff auf Quell- oder Datenbankdateien über die Website.
+- Fünf Authentifizierungstests bestanden; serverseitige Sperre auch live geprüft.
+
+Hosting-Quellen: `deployment/`. Nach Änderung der Prüf-HTML den Worker mit `python3 deployment/prepare-worker.py` erzeugen. Tests: `cd deployment && node --test auth.test.mjs`.
+
+Die Bestandsverwaltung bleibt für diese Prüfphase browserlokal. Neue Luna-Abgleiche sind deaktiviert.

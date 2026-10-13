@@ -1,0 +1,8 @@
+var/
+app/
+public/
+scripts/
+tests/
+.DS_Store
+*.sqlite*
+.env*

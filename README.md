@@ -1,49 +1,19 @@
 # Affiliate-Kompass
 
-Interne, klickbare Prüfversion zur Verwaltung von Websites, freigegebenen Affiliate-Angeboten und bewerteten Vorschlägen.
+Öffentliche klickbare Prüfversion mit dem freigegebenen Bestand: vier Websites, sieben Affiliate-Angebote und 14 bewertete Vorschläge einschließlich Tracking-IDs und Veröffentlichungsnachweisen.
 
-## Prüf-HTML öffnen
+## Externer Testlink
 
-[`pruefung.html`](./pruefung.html) herunterladen und im Browser öffnen. Die Datei ist eigenständig; es sind keine Installation, Domain oder zusätzlichen Dateien nötig.
+https://rc-com-domains.github.io/affiliate-kompass/
 
-Alternativ im lokalen Checkout:
+GitHub Pages veröffentlicht ausschließlich `docs/`. Die Prüfversion hat eine einfache browserseitige Passwortabfrage als Sichtschutz. Sie ist umgehbar und schützt weder den öffentlichen Quelltext noch die eingebetteten Daten. Das Passwort wurde separat im Chat mitgeteilt. `noindex,nofollow,noarchive` ist gesetzt.
 
-```sh
-python3 -m http.server 8767 --bind 127.0.0.1
-```
+Änderungen bleiben browserlokal und können über **Bestand exportieren** gesichert werden. Kein zentraler Datenbestand und keine Veröffentlichung auf externen Websites. Neue Luna-Abgleiche sind deaktiviert.
 
-Dann http://127.0.0.1:8767/pruefung.html öffnen.
+## Lokal prüfen
 
-## Übernommener Bestand
+`pruefung.html` öffnen oder `python3 -m http.server 8767 --bind 127.0.0.1` starten und http://127.0.0.1:8767/pruefung.html besuchen.
 
-- Vier Websites, sieben konkrete Affiliate-Angebote und 14 Vorschläge.
-- Themen, zentrale Nutzungsfreigaben, Bewertungen, Freigabestatus und bisherige Veröffentlichungsnachweise.
-- Einstellbare Schwellen und maximal drei Affiliate-Linkstellen pro Artikelseite.
-- Angebots- und Artikellinks öffnen in einem neuen Tab.
+## Frühere Hosting-Variante
 
-Die eingebetteten Daten sind ein Stand vom 13. Oktober 2026. Änderungen bleiben im Browser und können über **Bestand exportieren** als JSON gesichert werden. Sie werden noch nicht ins Repository oder in eine zentrale Datenbank geschrieben.
-
-Neue Luna-Abgleiche und Veröffentlichungen sind deaktiviert. Freigaben dienen der Prüfung und ändern keine externe Website.
-
-## Zugriff
-
-Das Repository ist privat. Die Prüfdatei erhält ausschließlich der Personenkreis mit Repository-Zugriff oder einer ausdrücklich weitergegebenen Dateikopie. Eine heruntergeladene Datei hat keinen zusätzlichen Login.
-
-Diese Phase stellt die Prüf-HTML bereit. Eine dauerhaft gehostete HTTPS-Ansicht mit Login, zentraler Datenbank und Luna-Anbindung ist ein späterer Ausbauschritt. GitHub zeigt HTML im Repository als Quelltext; die Datei wird zum Durchklicken im Browser geöffnet.
-
-## HTTPS-Prüfversion
-
-https://affiliate-kompass-pruefung.brawny-snow-5908.chatgpt.site
-
-Die Prüfversion läuft als serverseitiger Worker. Ein eigenes Anwendungspasswort schützt die Auslieferung der gesamten HTML und des eingebetteten Bestands. Zusätzlich ist der Hosting-Zugang aktuell auf den Eigentümer beschränkt; die Freigabe für externe Besucher wurde von der automatischen Freigabeprüfung abgelehnt.
-
-- HTTPS; Passwort-Hash und Sitzungsschlüssel ausschließlich in den Hosting-Secrets.
-- Signierte Sitzung für zwölf Stunden, Cookie Secure/HttpOnly/SameSite=Strict.
-- noindex/nofollow/noarchive als HTTP-Header und HTML-Meta; robots.txt sperrt Crawling.
-- Keine Browser- oder Proxy-Zwischenspeicherung.
-- Kein Zugriff auf Quell- oder Datenbankdateien über die Website.
-- Fünf Authentifizierungstests bestanden; serverseitige Sperre auch live geprüft.
-
-Hosting-Quellen: `deployment/`. Nach Änderung der Prüf-HTML den Worker mit `python3 deployment/prepare-worker.py` erzeugen. Tests: `cd deployment && node --test auth.test.mjs`.
-
-Die Bestandsverwaltung bleibt für diese Prüfphase browserlokal. Neue Luna-Abgleiche sind deaktiviert.
+`deployment/` enthält die separat erstellte Sites-Version mit serverseitigem Passwortschutz. Sie wird nicht für GitHub Pages verwendet. Diese Sites-Version bleibt zusätzlich durch den privaten Plattformzugang geschützt. Geheimniswerte sind ausschließlich im Hosting-System hinterlegt und nicht im Repository.

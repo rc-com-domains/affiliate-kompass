@@ -17,3 +17,9 @@ GitHub Pages veröffentlicht ausschließlich `docs/`. Die Prüfversion hat eine 
 ## Frühere Hosting-Variante
 
 `deployment/` enthält die separat erstellte Sites-Version mit serverseitigem Passwortschutz. Sie wird nicht für GitHub Pages verwendet. Diese Sites-Version bleibt zusätzlich durch den privaten Plattformzugang geschützt. Geheimniswerte sind ausschließlich im Hosting-System hinterlegt und nicht im Repository.
+
+## Zentrale Datenbank mit Supabase
+
+Anmeldung, zentrale Speicherung, Nutzer-Freigabeliste, Versionsschutz und Import sind vorbereitet. Einrichtung: [supabase/EINRICHTUNG.md](supabase/EINRICHTUNG.md).
+
+Bis Projekt-URL und Publishable Key hinterlegt sind, bleibt die Oberfläche ausdrücklich im lokalen Prüfmodus. Nach Konfiguration wird der Bestand ausschließlich aus Supabase geladen; Authentifizierung und Datenbankrechte werden serverseitig geprüft. Luna bleibt deaktiviert.

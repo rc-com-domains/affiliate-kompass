@@ -1,0 +1,1521 @@
+{
+  "sites": [
+    {
+      "id": "s1",
+      "name": "Entscheidungsframework",
+      "domain": "https://entscheidungsframework.de",
+      "topics": [
+        "entscheidung",
+        "psychologie",
+        "denken"
+      ],
+      "audience": "Menschen, die bewusster entscheiden möchten",
+      "language": "DE",
+      "status": "aktiv"
+    },
+    {
+      "id": "s2",
+      "name": "Friedlich ins Bett",
+      "domain": "https://friedlich-ins-bett.de",
+      "topics": [
+        "familie",
+        "einschlafen",
+        "abendroutine"
+      ],
+      "audience": "Eltern mit kleinen Kindern",
+      "language": "DE",
+      "status": "aktiv"
+    },
+    {
+      "id": "s3",
+      "name": "Der zweite Hund",
+      "domain": "https://derzweitehund.de",
+      "topics": [
+        "hund",
+        "zweithund",
+        "alltag"
+      ],
+      "audience": "Hundehalter vor der Entscheidung für einen Zweithund",
+      "language": "DE",
+      "status": "aktiv"
+    },
+    {
+      "id": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "name": "VanKompass",
+      "domain": "https://vankompass.de/",
+      "topics": [
+        "camper",
+        "camping",
+        "vanlife",
+        "camper-ausrüstung",
+        "wohnmobil",
+        "strom",
+        "powerstation",
+        "solar",
+        "schlafen",
+        "sanitär",
+        "küche",
+        "wasser",
+        "heizung",
+        "verdunkelung"
+      ],
+      "audience": "Camper- und Wohnmobilbesitzer sowie Menschen im Van-Ausbau, die passende Ausrüstung, Praxistests und Ratgeber für ihr Fahrzeug suchen.",
+      "language": "DE",
+      "status": "aktiv"
+    }
+  ],
+  "offers": [
+    {
+      "id": "o2",
+      "name": "Schnelles Denken, langsames Denken",
+      "provider": "Amazon Associates",
+      "category": "Buch",
+      "description": "Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.",
+      "url": "https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl",
+      "target": "https://www.amazon.de/dp/3328100342",
+      "code": "",
+      "topics": [
+        "entscheidung",
+        "kognition",
+        "psychologie",
+        "heuristik",
+        "denken"
+      ],
+      "scope": "selected",
+      "sites": [
+        "s1"
+      ],
+      "status": "aktiv",
+      "origin": "Vorhandener Eintrag",
+      "notes": "Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden."
+    },
+    {
+      "id": "o3",
+      "name": "Aktionscode Quirion",
+      "provider": "Direktpartner",
+      "category": "Service",
+      "description": "Digitaler Anbieter für Geldanlage. Ein vorhandener Aktionscode ist hinterlegt; aktuelle Konditionen sind hier nicht geprüft.",
+      "url": "https://www.quirion.de/",
+      "target": "https://www.quirion.de/",
+      "code": "4C57EE",
+      "topics": [
+        "geldanlage",
+        "etf",
+        "finanzen",
+        "altersvorsorge"
+      ],
+      "scope": "all",
+      "sites": [],
+      "status": "aktiv",
+      "origin": "Vorhandener Eintrag",
+      "notes": "Die bisherige allgemeine Zuordnung wird nur zur Demonstration übernommen. Keine geprüfte Finanzempfehlung."
+    },
+    {
+      "id": "bef74590-6d29-45ec-8372-c71df1b9e8e9",
+      "name": "Skool – eigene Online-Community aufbauen",
+      "provider": "Skool · Direktpartner",
+      "category": "Software",
+      "description": "Skool ist eine Plattform zum Aufbau und Betrieb eigener Online-Communitys. Der Link führt zur Registrierung für eine eigene Community.",
+      "url": "https://www.skool.com/signup?ref=c22ca4e4c7cb45c88a386fa8802cfe3e",
+      "target": "https://www.skool.com/signup",
+      "code": "",
+      "topics": [
+        "community",
+        "online-community",
+        "community-aufbau",
+        "mitgliedschaft",
+        "creator-business"
+      ],
+      "scope": "all",
+      "notes": "Affiliate-Link von Markus bereitgestellt. Zielseite geprüft am 13.10.2026: Registrierung für eine eigene Community. Von Markus zentral für alle jetzigen und zukünftigen Websites freigegeben.",
+      "sites": [],
+      "origin": "Im Prototyp angelegt",
+      "status": "aktiv"
+    },
+    {
+      "id": "2acd59d8-8a81-4b97-b112-da1e91661f98",
+      "name": "AFERIY P180 PRO – Powerstation",
+      "provider": "Amazon Associates",
+      "category": "Produkt",
+      "description": "Tragbare Powerstation von AFERIY mit 1024 Wh LiFePO4-Akku und 1800 W Ausgangsleistung für mobile Stromversorgung beim Camping und im Camper. PRO-Variante; mit separat erhältlichen Erweiterungsakkus bis auf 5120 Wh erweiterbar.",
+      "url": "https://www.amazon.de/dp/B0GRHP57JJ?th=1&linkCode=ll2&tag=vankompass-21&linkId=e14fe2fead29ecd96b79074a8203204e&ref_=as_li_ss_tl",
+      "target": "https://www.amazon.de/dp/B0GRHP57JJ",
+      "code": "",
+      "topics": [
+        "camper",
+        "camping",
+        "vanlife",
+        "wohnmobil",
+        "strom",
+        "powerstation",
+        "mobile-stromversorgung",
+        "lifepo4",
+        "solar"
+      ],
+      "scope": "selected",
+      "sites": [
+        "2c5cba86-e337-4da3-acff-87a960bed33b"
+      ],
+      "notes": "Amazon SiteStripe · geprüft am 13.10.2026. Tracking-ID: vankompass-21. ASIN: B0GRHP57JJ. Variante: 1800pro-a / AFERIY P180 Pro (Nomad 1800 Pro). Einzelgerät ohne Solarpanel und ohne zusätzliche Erweiterungsakkus. Zentrale Nutzungsfreigabe ausschließlich für VanKompass.",
+      "origin": "Im Prototyp angelegt",
+      "status": "aktiv"
+    },
+    {
+      "id": "amazon-vankompass-B006G80Y0Q",
+      "name": "Thetford Porta Potti 335 Qube",
+      "description": "Kompakte tragbare Chemietoilette von Thetford, Modell 335 Qube (92828), weiß. Zweiteiliges System mit Frischwasser- und Fäkalientank für Camping und Camper.",
+      "url": "https://www.amazon.de/dp/B006G80Y0Q?th=1&linkCode=ll2&tag=vankompass-21&linkId=02c4ac0397f80ee97d3087178644cbe7&ref_=as_li_ss_tl",
+      "target": "https://www.amazon.de/dp/B006G80Y0Q",
+      "topics": [
+        "camping",
+        "camper",
+        "sanitär",
+        "campingtoilette",
+        "chemietoilette",
+        "porta-potti"
+      ],
+      "asin": "B006G80Y0Q",
+      "provider": "Amazon Associates",
+      "category": "Produkt",
+      "scope": "selected",
+      "sites": [
+        "2c5cba86-e337-4da3-acff-87a960bed33b"
+      ],
+      "status": "aktiv",
+      "origin": "Amazon SiteStripe",
+      "trackingId": "vankompass-21",
+      "notes": "Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B006G80Y0Q. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.",
+      "code": ""
+    },
+    {
+      "id": "amazon-vankompass-B09VT4H86B",
+      "name": "BOXIO TOILET – Trockentrenntoilette",
+      "description": "Mobile Trockentrenntoilette von BOXIO im Euroboxformat 40 × 30 cm. Trennt flüssige und feste Ausscheidungen; Grundmodell ohne Wasser, Strom oder Toilettenchemie.",
+      "url": "https://www.amazon.de/dp/B09VT4H86B?th=1&linkCode=ll2&tag=vankompass-21&linkId=be6b736b83481336f74e047bf7aa9c2d&ref_=as_li_ss_tl",
+      "target": "https://www.amazon.de/dp/B09VT4H86B",
+      "topics": [
+        "camping",
+        "camper",
+        "sanitär",
+        "campingtoilette",
+        "trenntoilette",
+        "boxio"
+      ],
+      "asin": "B09VT4H86B",
+      "provider": "Amazon Associates",
+      "category": "Produkt",
+      "scope": "selected",
+      "sites": [
+        "2c5cba86-e337-4da3-acff-87a960bed33b"
+      ],
+      "status": "aktiv",
+      "origin": "Amazon SiteStripe",
+      "trackingId": "vankompass-21",
+      "notes": "Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B09VT4H86B. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.",
+      "code": ""
+    },
+    {
+      "id": "amazon-vankompass-B073ZJ3L13",
+      "name": "Victron SmartSolar MPPT 100/30",
+      "description": "MPPT-Solarladeregler von Victron Energy für 12-/24-V-Batteriesysteme mit integriertem Bluetooth, maximal 100 V PV-Leerlaufspannung und 30 A Ladestrom. SmartSolar-Variante; elektrische Auslegung und Batteriekonfiguration müssen zum Fahrzeug passen. Im Vergleichsartikel ist nur Victron 100/30 genannt, die genaue Modellreihe bleibt redaktionell zu prüfen.",
+      "url": "https://www.amazon.de/dp/B073ZJ3L13?th=1&linkCode=ll2&tag=vankompass-21&linkId=d33e6cbdfbcfbfff3e14df2726d206c2&ref_=as_li_ss_tl",
+      "target": "https://www.amazon.de/dp/B073ZJ3L13",
+      "topics": [
+        "camper",
+        "wohnmobil",
+        "solar",
+        "solaranlage",
+        "laderegler",
+        "mppt",
+        "victron"
+      ],
+      "asin": "B073ZJ3L13",
+      "provider": "Amazon Associates",
+      "category": "Produkt",
+      "scope": "selected",
+      "sites": [
+        "2c5cba86-e337-4da3-acff-87a960bed33b"
+      ],
+      "status": "aktiv",
+      "origin": "Amazon SiteStripe",
+      "trackingId": "vankompass-21",
+      "notes": "Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B073ZJ3L13. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.",
+      "code": ""
+    }
+  ],
+  "proposals": [
+    {
+      "id": "live-61e25e8b48c2a89ecd",
+      "site": "s1",
+      "offer": "o2",
+      "title": "Der Confirmation Bias: Warum wir nur sehen, was wir sehen wollen",
+      "section": "Inline-Verlinkung in „Quellen“",
+      "path": "/magazin/confirmation-bias/",
+      "url": "https://www.entscheidungsframework.de/magazin/confirmation-bias/",
+      "before": "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.",
+      "text": "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux. Deutsche Ausgabe: „Schnelles Denken, langsames Denken“",
+      "reason": "Die Originalbibliografie bleibt unverändert; der ergänzte deutsche Ausgabeverweis macht das verlinkte Taschenbuch eindeutig.",
+      "topics": [
+        "entscheidung",
+        "kognition",
+        "psychologie",
+        "denken"
+      ],
+      "status": "freigegeben",
+      "source": "live",
+      "articleHash": "606f5a63b4aa998af32d1c61fac64a1ca17e6c56fe316b67ea83c273d71b1866",
+      "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+      "observedAt": "2026-10-12T07:36:32.383378+00:00",
+      "method": "Themenregeln · ohne Modellaufruf",
+      "offerSnapshot": "{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"}",
+      "decidedAt": "2026-10-13T10:08:32.595Z",
+      "decisionScore": 87,
+      "simulatedAt": "2026-10-13T09:41:18.747Z",
+      "simulatedScore": 97,
+      "simulatedThresholds": {
+        "automatic": 95,
+        "review": 80
+      },
+      "revisionHistory": [
+        {
+          "before": "Dieses Phänomen – die systematische Bevorzugung bestätigender Informationen – untersuchten Daniel Kahneman und Amos Tversky ab den 1970er Jahren im größeren Rahmen ihrer Forschung zu kognitiven Verzerrungen. In ihrer wegweisenden Arbeit von 1974 zeigten sie, dass der Confirmation Bias kein gelegentlicher Fehler ist, sondern ein grundlegendes Muster menschlichen Denkens . Er betrifft jeden, unabhängig von Intelligenz, Bildung oder Erfahrung.",
+          "section": "Nach einem Absatz in „Die Entdeckung des Bestätigungsfehlers“",
+          "text": "Zum Weiterlesen: „Schnelles Denken, langsames Denken“. Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.",
+          "reason": "Im Artikel gefunden: entscheidung, kognition, psychologie, denken. Der Abschnitt „Die Entdeckung des Bestätigungsfehlers“ enthält passende Begriffe. Regelbasierter Kandidat; redaktionelle Prüfung erforderlich.",
+          "score": 87,
+          "changedAt": "2026-10-13T10:03:39.863Z"
+        }
+      ],
+      "editMode": "replace_inline",
+      "linkText": "Schnelles Denken, langsames Denken",
+      "revisionId": "quellen-oder-kurz-v1",
+      "publication": {
+        "url": "https://www.entscheidungsframework.de/magazin/confirmation-bias/",
+        "commit": "082fa9a53907c887b517d296961abe84e5fac2e6",
+        "verifiedAt": "2026-10-13T10:16:45.994496+00:00",
+        "target": "_blank",
+        "rel": "noopener sponsored"
+      }
+    },
+    {
+      "id": "live-f8f60fb8fdc426c3a1",
+      "site": "s1",
+      "offer": "o2",
+      "title": "Warum die Pro-Contra-Liste nicht reicht – und was besser funktioniert",
+      "section": "Inline-Verlinkung in „Quellen“",
+      "path": "/magazin/pro-contra-liste/",
+      "url": "https://www.entscheidungsframework.de/magazin/pro-contra-liste/",
+      "before": "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.",
+      "text": "Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux. Deutsche Ausgabe: „Schnelles Denken, langsames Denken“",
+      "reason": "Die Originalbibliografie bleibt unverändert; der ergänzte deutsche Ausgabeverweis macht das verlinkte Taschenbuch eindeutig.",
+      "topics": [
+        "entscheidung",
+        "psychologie",
+        "heuristik",
+        "denken"
+      ],
+      "status": "freigegeben",
+      "source": "live",
+      "articleHash": "7866de11ff43dc99f674d0eba3da919676af6ec23321c27484a5a6723ca02d25",
+      "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+      "observedAt": "2026-10-12T07:36:32.383378+00:00",
+      "method": "Themenregeln · ohne Modellaufruf",
+      "offerSnapshot": "{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"}",
+      "simulatedAt": "2026-10-13T09:41:18.747Z",
+      "simulatedScore": 100,
+      "simulatedThresholds": {
+        "automatic": 95,
+        "review": 80
+      },
+      "decidedAt": "2026-10-13T10:08:41.462Z",
+      "decisionScore": 82,
+      "revisionHistory": [
+        {
+          "before": "Soweit die Theorie – und für einfache Fragen funktioniert das tatsächlich gut. Die Stärke der Pro-Contra-Liste liegt darin, dass sie dich zwingt, deine Gedanken aufzuschreiben, statt im Kopf endlos zu kreisen. Daniel Kahneman würde sagen: Die Liste aktiviert dein System 2 – das langsame, bewusste Denken, das bei wichtigen Entscheidungen gefragt ist. Allein das Aufschreiben bringt oft schon Klarheit, weil du die chaotische Gedankenwolke in eine greifbare Struktur überführst. Warum genau uns Entscheidungen so schwer fallen , hat viel mit den Grenzen unseres Arbeitsgedächtnisses zu tun.",
+          "section": "Nach einem Absatz in „So funktioniert die Pro-Contra-Liste“",
+          "text": "Zum Weiterlesen: „Schnelles Denken, langsames Denken“. Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.",
+          "reason": "Im Artikel gefunden: entscheidung, psychologie, heuristik, denken. Der Abschnitt „So funktioniert die Pro-Contra-Liste“ enthält passende Begriffe. Regelbasierter Kandidat; redaktionelle Prüfung erforderlich.",
+          "score": 75,
+          "changedAt": "2026-10-13T10:03:39.863Z"
+        }
+      ],
+      "editMode": "replace_inline",
+      "linkText": "Schnelles Denken, langsames Denken",
+      "revisionId": "quellen-oder-kurz-v1",
+      "publication": {
+        "url": "https://www.entscheidungsframework.de/magazin/pro-contra-liste/",
+        "commit": "082fa9a53907c887b517d296961abe84e5fac2e6",
+        "verifiedAt": "2026-10-13T10:16:45.994496+00:00",
+        "target": "_blank",
+        "rel": "noopener sponsored"
+      }
+    },
+    {
+      "id": "live-f6d8d00dd9af36baf3",
+      "site": "s1",
+      "offer": "o2",
+      "title": "Warum wir uns bei wichtigen Entscheidungen so schwer tun",
+      "section": "Inline-Verlinkung in „System 1 und System 2: Kahneman erklärt das Dilemma“",
+      "path": "/magazin/warum-wir-uns-schwer-tun/",
+      "url": "https://www.entscheidungsframework.de/magazin/warum-wir-uns-schwer-tun/",
+      "before": "Der Nobelpreisträger Daniel Kahneman lieferte in seinem Werk „Thinking, Fast and Slow“ (2011) eine ergänzende Erklärung.",
+      "text": "Der Nobelpreisträger Daniel Kahneman lieferte in seinem Werk „Schnelles Denken, langsames Denken“ eine ergänzende Erklärung.",
+      "reason": "Die vorhandene Buchnennung verwendet direkt den deutschen Titel. Originaltitel und Jahr bleiben im bestehenden Quellenverzeichnis; die lange Klammer entfällt.",
+      "topics": [
+        "entscheidung",
+        "kognition",
+        "psychologie"
+      ],
+      "status": "freigegeben",
+      "source": "live",
+      "articleHash": "da43008288a34055e2e02686c815520e1285c1b32e550191a111024d1ca9ff26",
+      "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+      "observedAt": "2026-10-12T07:36:32.383378+00:00",
+      "method": "Themenregeln · ohne Modellaufruf",
+      "offerSnapshot": "{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"}",
+      "simulatedAt": "2026-10-13T09:41:18.747Z",
+      "simulatedScore": 100,
+      "simulatedThresholds": {
+        "automatic": 95,
+        "review": 80
+      },
+      "decidedAt": "2026-10-13T10:08:51.879Z",
+      "decisionScore": 93,
+      "revisionHistory": [
+        {
+          "before": "Der Nobelpreisträger Daniel Kahneman lieferte in seinem Werk „Thinking, Fast and Slow“ (2011) eine ergänzende Erklärung. Er unterscheidet zwischen zwei Denksystemen, die in unserem Kopf parallel arbeiten:",
+          "section": "Nach einem Absatz in „System 1 und System 2: Kahneman erklärt das Dilemma“",
+          "text": "Zum Weiterlesen: „Schnelles Denken, langsames Denken“. Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.",
+          "reason": "Im Artikel gefunden: entscheidung, kognition, psychologie. Der Abschnitt „System 1 und System 2: Kahneman erklärt das Dilemma“ enthält passende Begriffe. Regelbasierter Kandidat; redaktionelle Prüfung erforderlich.",
+          "score": 68,
+          "changedAt": "2026-10-13T10:03:39.863Z"
+        }
+      ],
+      "editMode": "replace_inline",
+      "linkText": "Schnelles Denken, langsames Denken",
+      "revisionId": "quellen-oder-kurz-v1",
+      "publication": {
+        "url": "https://www.entscheidungsframework.de/magazin/warum-wir-uns-schwer-tun/",
+        "commit": "082fa9a53907c887b517d296961abe84e5fac2e6",
+        "verifiedAt": "2026-10-13T10:16:45.994496+00:00",
+        "target": "_blank",
+        "rel": "noopener sponsored"
+      }
+    },
+    {
+      "id": "live-d91836c92bcbb8441a",
+      "site": "s1",
+      "offer": "o2",
+      "title": "Was ist eine Gewichtete Scorecard – und wofür brauche ich sie?",
+      "section": "Nach einem Absatz in „Was die Scorecard nicht kann – und warum das in Ordnung ist“",
+      "path": "/magazin/gewichtete-scorecard/",
+      "url": "https://www.entscheidungsframework.de/magazin/gewichtete-scorecard/",
+      "before": "Eine gute Scorecard integriert dieses Gefühl bewusst als eigenes Kriterium: „Bauchgefühl“ oder „Innere Ruhe“. So wird auch dein emotionales Wissen Teil der Rechnung, statt nur als störender Faktor im Hintergrund zu arbeiten.",
+      "text": "Wer besser verstehen möchte, wann intuitive Entscheidungen hilfreich sind und wann Denkverzerrungen sie beeinflussen, findet in [Schnelles Denken, langsames Denken](OFFER_LINK) von Daniel Kahneman eine verständliche Vertiefung.",
+      "editMode": "after_paragraph",
+      "linkText": "Schnelles Denken, langsames Denken",
+      "reason": "Das Buch ergänzt den Abschnitt sinnvoll um die psychologischen Grenzen und Chancen intuitiver Entscheidungen. Der Zusatz bleibt knapp und bietet einen konkreten nächsten Leseschritt.",
+      "topics": [
+        "entscheidung",
+        "denken"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "4e3e69386dba34b190c784f8c05604c392a5b2b7bbd98828fcf461bb4f62953b",
+      "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+      "observedAt": "2026-10-13T10:41:27.178481+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 86,
+        "scores": [
+          25,
+          20,
+          23,
+          18
+        ],
+        "reason": "Das Buch ergänzt den Abschnitt sinnvoll um die psychologischen Grenzen und Chancen intuitiver Entscheidungen. Der Zusatz bleibt knapp und bietet einen konkreten nächsten Leseschritt.",
+        "risks": [
+          "Der Link muss technisch mit der freigegebenen Angebots-URL ersetzt werden.",
+          "Der Buchhinweis erweitert den Artikel um einen psychologischen Exkurs, der nicht für alle Leser notwendig ist."
+        ],
+        "block_auto": true,
+        "articleHash": "4e3e69386dba34b190c784f8c05604c392a5b2b7bbd98828fcf461bb4f62953b",
+        "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+        "before": "Eine gute Scorecard integriert dieses Gefühl bewusst als eigenes Kriterium: „Bauchgefühl“ oder „Innere Ruhe“. So wird auch dein emotionales Wissen Teil der Rechnung, statt nur als störender Faktor im Hintergrund zu arbeiten.",
+        "text": "Wer besser verstehen möchte, wann intuitive Entscheidungen hilfreich sind und wann Denkverzerrungen sie beeinflussen, findet in [Schnelles Denken, langsames Denken](OFFER_LINK) von Daniel Kahneman eine verständliche Vertiefung.",
+        "section": "Nach einem Absatz in „Was die Scorecard nicht kann – und warum das in Ordnung ist“",
+        "editMode": "after_paragraph",
+        "linkText": "Schnelles Denken, langsames Denken",
+        "checkedAt": "2026-10-13T10:41:27.178481+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"}"
+    },
+    {
+      "id": "live-e3539d1494c399c30c",
+      "site": "s1",
+      "offer": "o2",
+      "title": "Gerd Gigerenzer und die Macht der einfachen Heuristiken",
+      "section": "Nach einem Absatz in „Was das für dich bedeutet“",
+      "path": "/magazin/gigerenzer-heuristiken/",
+      "url": "https://www.entscheidungsframework.de/magazin/gigerenzer-heuristiken/",
+      "before": "Wenn du das nächste Mal vor einer wichtigen Entscheidung stehst und das Gefühl hast, du müsstest noch mehr recherchieren, noch eine Meinung einholen, noch eine Nacht darüber schlafen – dann erinnere dich an Gigerenzers Forschung. Die zusätzliche Information wird deine Entscheidung wahrscheinlich nicht verbessern. Aber sie wird sie verzögern. Und Verzögerung hat echte Kosten: verpasste Chancen, anhaltender Stress, das zähe Gefühl, im Unentschlossenen festzustecken.",
+      "text": "Als vertiefende Lektüre passt [Schnelles Denken, langsames Denken] von Daniel Kahneman: Das Buch zeigt, wie intuitives und bewusstes Denken Entscheidungen prägt und wo typische Verzerrungen entstehen.",
+      "editMode": "after_paragraph",
+      "linkText": "Schnelles Denken, langsames Denken",
+      "reason": "Das Buch ergänzt den Artikel thematisch direkt um die psychologischen Grundlagen intuitiver und bewusster Entscheidungen. Die Platzierung nach der Überleitung zur praktischen Bedeutung ist nachvollziehbar und der Zusatz bleibt knapp.",
+      "topics": [
+        "entscheidung",
+        "psychologie",
+        "heuristik"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "65905e99855368d2678f354984edff9efd74ad7b4dc1095eb9c803ce90d33b8b",
+      "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+      "observedAt": "2026-10-13T10:41:27.178481+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 91,
+        "scores": [
+          28,
+          22,
+          23,
+          18
+        ],
+        "reason": "Das Buch ergänzt den Artikel thematisch direkt um die psychologischen Grundlagen intuitiver und bewusster Entscheidungen. Die Platzierung nach der Überleitung zur praktischen Bedeutung ist nachvollziehbar und der Zusatz bleibt knapp.",
+        "risks": [
+          "Die Empfehlung erweitert den Fokus von Gigerenzer auf Kahneman und sollte redaktionell als vertiefende Ergänzung kenntlich bleiben.",
+          "Der Produktname sollte auf die freigegebene Angebotsseite verlinkt werden."
+        ],
+        "block_auto": true,
+        "articleHash": "65905e99855368d2678f354984edff9efd74ad7b4dc1095eb9c803ce90d33b8b",
+        "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+        "before": "Wenn du das nächste Mal vor einer wichtigen Entscheidung stehst und das Gefühl hast, du müsstest noch mehr recherchieren, noch eine Meinung einholen, noch eine Nacht darüber schlafen – dann erinnere dich an Gigerenzers Forschung. Die zusätzliche Information wird deine Entscheidung wahrscheinlich nicht verbessern. Aber sie wird sie verzögern. Und Verzögerung hat echte Kosten: verpasste Chancen, anhaltender Stress, das zähe Gefühl, im Unentschlossenen festzustecken.",
+        "text": "Als vertiefende Lektüre passt [Schnelles Denken, langsames Denken] von Daniel Kahneman: Das Buch zeigt, wie intuitives und bewusstes Denken Entscheidungen prägt und wo typische Verzerrungen entstehen.",
+        "section": "Nach einem Absatz in „Was das für dich bedeutet“",
+        "editMode": "after_paragraph",
+        "linkText": "Schnelles Denken, langsames Denken",
+        "checkedAt": "2026-10-13T10:41:27.178481+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"}"
+    },
+    {
+      "id": "live-8f96a98ae2b0baa9ec",
+      "site": "s1",
+      "offer": "o2",
+      "title": "Somatische Marker: Warum dein Körper bei Entscheidungen mitredet",
+      "section": "Nach einem Absatz in „Warum reine Rationalität nicht funktioniert“",
+      "path": "/magazin/somatische-marker/",
+      "url": "https://www.entscheidungsframework.de/magazin/somatische-marker/",
+      "before": "Die Somatic-Marker-Hypothese widerlegt eine Annahme, die seit René Descartes das westliche Denken prägt: dass gute Entscheidungen rein rational sind und Emotionen nur stören. Genau diese Annahme steckt auch hinter der klassischen Pro-Contra-Liste : Argumente aufzählen, zählen, fertig – Gefühle kommen nicht vor. Damasio drehte diese Annahme um. Emotionen stören nicht das Entscheiden – sie ermöglichen es erst. Der Hirnforscher Gerhard Roth, einer der führenden deutschen Neurowissenschaftler, bestätigte diese Sichtweise in seiner eigenen Forschung: Jede Entscheidung, auch die scheinbar rationale, wird von emotionalen Bewertungen im limbischen System begleitet und beeinflusst.",
+      "text": "Eine weiterführende, gut zugängliche Einführung in das Zusammenspiel von intuitivem und bewusstem Denken bietet Daniel Kahnemans Buch „Schnelles Denken, langsames Denken“.",
+      "editMode": "after_paragraph",
+      "linkText": "Schnelles Denken, langsames Denken",
+      "reason": "Das Buch passt inhaltlich direkt zur Gegenüberstellung von rationalem Denken, Intuition und emotionalen Einflüssen und bietet interessierten Lesern eine konkrete Vertiefung an einer passenden Stelle.",
+      "topics": [
+        "entscheidung",
+        "kognition",
+        "denken"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "362e901b8ef76345445a0f89b7b5c03c2e69693695c2dbe409a74e6d60bd8bb6",
+      "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+      "observedAt": "2026-10-13T10:41:27.178481+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 84,
+        "scores": [
+          25,
+          19,
+          22,
+          18
+        ],
+        "reason": "Das Buch passt inhaltlich direkt zur Gegenüberstellung von rationalem Denken, Intuition und emotionalen Einflüssen und bietet interessierten Lesern eine konkrete Vertiefung an einer passenden Stelle.",
+        "risks": [
+          "Der zusätzliche Buchtipp kann den Fokus kurz von Damasio auf Kahneman verschieben.",
+          "Die Formulierung sollte redaktionell geprüft werden, damit der Affiliate-Hinweis und die Einordnung des Buchs zur Gesamtstrategie des Artikels passen."
+        ],
+        "block_auto": true,
+        "articleHash": "362e901b8ef76345445a0f89b7b5c03c2e69693695c2dbe409a74e6d60bd8bb6",
+        "offerHash": "0f5210ac2f87fb5bd5426df1e7fc40bd6c576a4a89cba8351455291fcf17755c",
+        "before": "Die Somatic-Marker-Hypothese widerlegt eine Annahme, die seit René Descartes das westliche Denken prägt: dass gute Entscheidungen rein rational sind und Emotionen nur stören. Genau diese Annahme steckt auch hinter der klassischen Pro-Contra-Liste : Argumente aufzählen, zählen, fertig – Gefühle kommen nicht vor. Damasio drehte diese Annahme um. Emotionen stören nicht das Entscheiden – sie ermöglichen es erst. Der Hirnforscher Gerhard Roth, einer der führenden deutschen Neurowissenschaftler, bestätigte diese Sichtweise in seiner eigenen Forschung: Jede Entscheidung, auch die scheinbar rationale, wird von emotionalen Bewertungen im limbischen System begleitet und beeinflusst.",
+        "text": "Eine weiterführende, gut zugängliche Einführung in das Zusammenspiel von intuitivem und bewusstem Denken bietet Daniel Kahnemans Buch „Schnelles Denken, langsames Denken“.",
+        "section": "Nach einem Absatz in „Warum reine Rationalität nicht funktioniert“",
+        "editMode": "after_paragraph",
+        "linkText": "Schnelles Denken, langsames Denken",
+        "checkedAt": "2026-10-13T10:41:27.178481+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"}"
+    },
+    {
+      "id": "van-d877b3f074e0dc6243",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "amazon-vankompass-B073ZJ3L13",
+      "title": "Solartasche im Vergleich: Wattstunde 140, 200 und 330 WP gegen EcoFlow 400 WP",
+      "section": "Nach einem Absatz in „So wurde gemessen: Laderegler, Batterie, Sonne“",
+      "path": "/magazin-solar-solartasche-kaufberatung-wattstunde-ecoflow-bergbrise.html",
+      "url": "https://vankompass.de/magazin-solar-solartasche-kaufberatung-wattstunde-ecoflow-bergbrise.html",
+      "before": "Der Tester hat auf dem Aufstelldach seines Campers zwei Solarmodule mit je 95 Watt, zusammen also 190 Watt. Das reicht laut Video im Sommer, um die Batterien voll zu halten, im Herbst und Winter nicht mehr. Ein zusätzliches Modul auf das Aufstelldach zu kleben war für ihn wegen der Garantie keine Option. Deshalb hat er einen zweiten Laderegler eingebaut, einen Victron 100/30 mit eigenem Kabelanschluss, an dem die Solartasche angesteckt wird. Der Regler ist laut dem Tester groß genug für alle vier Taschen im Vergleich.",
+      "text": "Als konkretes Beispiel für einen solchen Regler wird der Victron SmartSolar MPPT 100/30 angeboten. Die genaue Auslegung muss zum Fahrzeug, zur Batteriespannung und zur Solartasche passen.",
+      "editMode": "after_paragraph",
+      "linkText": "Victron SmartSolar MPPT 100/30",
+      "reason": "Der Zusatz verlinkt den im Artikel ausdrücklich genannten Victron-100/30-Laderegler und gibt Campern einen konkreten Anhaltspunkt, ohne die Testergebnisse oder die Produktbewertung zu verändern.",
+      "topics": [
+        "camper",
+        "wohnmobil",
+        "solar",
+        "solaranlage",
+        "laderegler",
+        "mppt",
+        "victron"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "a2be244cb17fc36dad620861528a9a209bc902cbcaba402a759bf3ec02d5189d",
+      "offerHash": "a748d008fb076c08ddb2826a8305adb1b36fbe01f84503dc7be9870823081b85",
+      "observedAt": "2026-10-13T11:17:26.365229+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 89,
+        "scores": [
+          28,
+          20,
+          23,
+          18
+        ],
+        "reason": "Der Zusatz verlinkt den im Artikel ausdrücklich genannten Victron-100/30-Laderegler und gibt Campern einen konkreten Anhaltspunkt, ohne die Testergebnisse oder die Produktbewertung zu verändern.",
+        "risks": [
+          "Im Artikel ist nur Victron 100/30 genannt; ob es sich exakt um die angebotene SmartSolar-Modellreihe handelt, bleibt ungeklärt.",
+          "Elektrische Auslegung und Batteriekonfiguration müssen vor dem Kauf geprüft werden."
+        ],
+        "block_auto": true,
+        "articleHash": "a2be244cb17fc36dad620861528a9a209bc902cbcaba402a759bf3ec02d5189d",
+        "offerHash": "a748d008fb076c08ddb2826a8305adb1b36fbe01f84503dc7be9870823081b85",
+        "before": "Der Tester hat auf dem Aufstelldach seines Campers zwei Solarmodule mit je 95 Watt, zusammen also 190 Watt. Das reicht laut Video im Sommer, um die Batterien voll zu halten, im Herbst und Winter nicht mehr. Ein zusätzliches Modul auf das Aufstelldach zu kleben war für ihn wegen der Garantie keine Option. Deshalb hat er einen zweiten Laderegler eingebaut, einen Victron 100/30 mit eigenem Kabelanschluss, an dem die Solartasche angesteckt wird. Der Regler ist laut dem Tester groß genug für alle vier Taschen im Vergleich.",
+        "text": "Als konkretes Beispiel für einen solchen Regler wird der Victron SmartSolar MPPT 100/30 angeboten. Die genaue Auslegung muss zum Fahrzeug, zur Batteriespannung und zur Solartasche passen.",
+        "section": "Nach einem Absatz in „So wurde gemessen: Laderegler, Batterie, Sonne“",
+        "editMode": "after_paragraph",
+        "linkText": "Victron SmartSolar MPPT 100/30",
+        "checkedAt": "2026-10-13T11:17:26.365229+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"amazon-vankompass-B073ZJ3L13\",\"name\":\"Victron SmartSolar MPPT 100/30\",\"description\":\"MPPT-Solarladeregler von Victron Energy für 12-/24-V-Batteriesysteme mit integriertem Bluetooth, maximal 100 V PV-Leerlaufspannung und 30 A Ladestrom. SmartSolar-Variante; elektrische Auslegung und Batteriekonfiguration müssen zum Fahrzeug passen. Im Vergleichsartikel ist nur Victron 100/30 genannt, die genaue Modellreihe bleibt redaktionell zu prüfen.\",\"url\":\"https://www.amazon.de/dp/B073ZJ3L13?th=1&linkCode=ll2&tag=vankompass-21&linkId=d33e6cbdfbcfbfff3e14df2726d206c2&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B073ZJ3L13\",\"topics\":[\"camper\",\"wohnmobil\",\"solar\",\"solaranlage\",\"laderegler\",\"mppt\",\"victron\"],\"asin\":\"B073ZJ3L13\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B073ZJ3L13. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"}",
+      "verification": {
+        "offer": "amazon-vankompass-B073ZJ3L13",
+        "status": "needs_model_confirmation",
+        "summary": "Originalvideo bei 02:46 nennt Victron 100/30, keine Modellreihe. Hersteller führt BlueSolar und SmartSolar 100/30; SmartSolar-Angebot nicht als exakt gezeigtes Gerät belegt. Zurückgestellt.",
+        "sources": [
+          "https://www.youtube.com/watch?v=7Chdi5_CLXE&t=166s",
+          "https://www.victronenergy.com/solar-charge-controllers/mppt-100-30",
+          "https://www.victronenergy.com/solar-charge-controllers/smartsolar-100-30-100-50"
+        ],
+        "checkedAt": "2026-10-13T15:19:50.629959+00:00"
+      }
+    },
+    {
+      "id": "van-019321c95efdc695c2",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "amazon-vankompass-B006G80Y0Q",
+      "title": "Chemietoilette oder Trenntoilette im Camper: Porta Potti 335 gegen Boxio",
+      "section": "Inline-Verlinkung in „Thetford Porta Potti 335: So funktioniert die Chemietoilette“",
+      "path": "/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+      "url": "https://vankompass.de/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+      "before": "Die Porta Potti 335 funktioniert laut dem Video im Grunde wie eine Toilette zu Hause, nur dass im Tank Chemie statt Kanalisation sitzt. Sie ist zweiteilig: oben der Frischwassertank mit hochklappbarer Klobrille und einer Hubpumpe an der Seite, unten der Fäkalientank.",
+      "text": "Die Thetford Porta Potti 335 Qube funktioniert laut dem Video im Grunde wie eine Toilette zu Hause, nur dass im Tank Chemie statt Kanalisation sitzt. Sie ist zweiteilig: oben der Frischwassertank mit hochklappbarer Klobrille und einer Hubpumpe an der Seite, unten der Fäkalientank.",
+      "editMode": "replace_inline",
+      "linkText": "Thetford Porta Potti 335 Qube",
+      "reason": "Das Angebot entspricht der im Artikel beschriebenen kompakten Chemietoilette und passt direkt in den erklärenden Absatz zur Porta Potti 335. Der konkrete Produktname wird eindeutig verlinkt, ohne zusätzliche Werbeaussage.",
+      "topics": [
+        "camping",
+        "camper",
+        "sanitär",
+        "campingtoilette",
+        "chemietoilette",
+        "porta-potti"
+      ],
+      "status": "freigegeben",
+      "source": "live",
+      "articleHash": "ee83da016b058f9d358b701980a7612ce6095801098f7533cf41b468b5b10372",
+      "offerHash": "4c6aa6caea0d4e0eeea56c12b96166f153870598f0238c6b169f3add00383a5d",
+      "observedAt": "2026-10-13T11:17:26.365229+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 95,
+        "scores": [
+          30,
+          22,
+          24,
+          19
+        ],
+        "reason": "Das Angebot entspricht der im Artikel beschriebenen kompakten Chemietoilette und passt direkt in den erklärenden Absatz zur Porta Potti 335. Der konkrete Produktname wird eindeutig verlinkt, ohne zusätzliche Werbeaussage.",
+        "risks": [],
+        "block_auto": false,
+        "articleHash": "ee83da016b058f9d358b701980a7612ce6095801098f7533cf41b468b5b10372",
+        "offerHash": "4c6aa6caea0d4e0eeea56c12b96166f153870598f0238c6b169f3add00383a5d",
+        "before": "Die Porta Potti 335 funktioniert laut dem Video im Grunde wie eine Toilette zu Hause, nur dass im Tank Chemie statt Kanalisation sitzt. Sie ist zweiteilig: oben der Frischwassertank mit hochklappbarer Klobrille und einer Hubpumpe an der Seite, unten der Fäkalientank.",
+        "text": "Die Thetford Porta Potti 335 Qube funktioniert laut dem Video im Grunde wie eine Toilette zu Hause, nur dass im Tank Chemie statt Kanalisation sitzt. Sie ist zweiteilig: oben der Frischwassertank mit hochklappbarer Klobrille und einer Hubpumpe an der Seite, unten der Fäkalientank.",
+        "section": "Inline-Verlinkung in „Thetford Porta Potti 335: So funktioniert die Chemietoilette“",
+        "editMode": "replace_inline",
+        "linkText": "Thetford Porta Potti 335 Qube",
+        "checkedAt": "2026-10-13T11:17:26.365229+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"amazon-vankompass-B006G80Y0Q\",\"name\":\"Thetford Porta Potti 335 Qube\",\"description\":\"Kompakte tragbare Chemietoilette von Thetford, Modell 335 Qube (92828), weiß. Zweiteiliges System mit Frischwasser- und Fäkalientank für Camping und Camper.\",\"url\":\"https://www.amazon.de/dp/B006G80Y0Q?th=1&linkCode=ll2&tag=vankompass-21&linkId=02c4ac0397f80ee97d3087178644cbe7&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B006G80Y0Q\",\"topics\":[\"camping\",\"camper\",\"sanitär\",\"campingtoilette\",\"chemietoilette\",\"porta-potti\"],\"asin\":\"B006G80Y0Q\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B006G80Y0Q. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"}",
+      "revisionHistory": [
+        {
+          "text": "Die im Video besprochene Thetford Porta Potti 335 Qube ist als konkrete Modellvariante erhältlich und entspricht der beschriebenen zweiteiligen Chemietoilette mit Frischwasser- und Fäkalientank.",
+          "score": 89,
+          "reason": "Zwischenzeitliche Website-Neugenerierung; ursprüngliche Freigabe live wiederhergestellt."
+        }
+      ],
+      "publication": {
+        "url": "https://vankompass.de/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+        "commit": "f7a907d5ef91b4960bce3c4f7da128b77c6f43f5",
+        "verifiedAt": "2026-10-13T15:19:50.629959+00:00",
+        "target": "_blank",
+        "rel": "noopener sponsored"
+      }
+    },
+    {
+      "id": "van-fc6ea2f6d86214d4e3",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "amazon-vankompass-B09VT4H86B",
+      "title": "Chemietoilette oder Trenntoilette im Camper: Porta Potti 335 gegen Boxio",
+      "section": "Nach einem Absatz in „Boxio Trockentrenntoilette: So funktioniert sie“",
+      "path": "/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+      "url": "https://vankompass.de/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+      "before": "Die Boxio hat laut dem Video das halbe Euroboxmaß: 40 x 30 cm. Der Deckel ist ein Euroboxdeckel, der hochgeklappt wird und über ein Band offen bleibt. Darunter sitzt der Trenner, der das Flüssige nach vorn und das Feste nach hinten leitet.",
+      "text": "Das im Artikel beschriebene Grundmodell ist die BOXIO TOILET – Trockentrenntoilette im Euroboxformat 40 × 30 cm.",
+      "editMode": "after_paragraph",
+      "linkText": "BOXIO TOILET – Trockentrenntoilette",
+      "reason": "Das Angebot entspricht dem im Absatz beschriebenen BOXIO-Grundmodell und ergänzt die konkrete Produktbezeichnung an einer passenden Stelle. Der Leser kann die Produktnennung eindeutig zuordnen, ohne dass zusätzliche Werbeaussagen nötig sind.",
+      "topics": [
+        "camping",
+        "camper",
+        "sanitär",
+        "campingtoilette",
+        "trenntoilette",
+        "boxio"
+      ],
+      "status": "freigegeben",
+      "source": "live",
+      "articleHash": "ee83da016b058f9d358b701980a7612ce6095801098f7533cf41b468b5b10372",
+      "offerHash": "9597171881a885931471ac21417347d10145307f2443a1314e4414602ee2de74",
+      "observedAt": "2026-10-13T11:17:26.365229+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 91,
+        "scores": [
+          30,
+          18,
+          24,
+          19
+        ],
+        "reason": "Das Angebot entspricht dem im Absatz beschriebenen BOXIO-Grundmodell und ergänzt die konkrete Produktbezeichnung an einer passenden Stelle. Der Leser kann die Produktnennung eindeutig zuordnen, ohne dass zusätzliche Werbeaussagen nötig sind.",
+        "risks": [
+          "Die Übereinstimmung mit dem im Video gezeigten konkreten Modell ist aus den gelieferten Daten nicht ausdrücklich verifiziert."
+        ],
+        "block_auto": true,
+        "articleHash": "ee83da016b058f9d358b701980a7612ce6095801098f7533cf41b468b5b10372",
+        "offerHash": "9597171881a885931471ac21417347d10145307f2443a1314e4414602ee2de74",
+        "before": "Die Boxio hat laut dem Video das halbe Euroboxmaß: 40 x 30 cm. Der Deckel ist ein Euroboxdeckel, der hochgeklappt wird und über ein Band offen bleibt. Darunter sitzt der Trenner, der das Flüssige nach vorn und das Feste nach hinten leitet.",
+        "text": "Das im Artikel beschriebene Grundmodell ist die BOXIO TOILET – Trockentrenntoilette im Euroboxformat 40 × 30 cm.",
+        "section": "Nach einem Absatz in „Boxio Trockentrenntoilette: So funktioniert sie“",
+        "editMode": "after_paragraph",
+        "linkText": "BOXIO TOILET – Trockentrenntoilette",
+        "checkedAt": "2026-10-13T11:17:26.365229+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"amazon-vankompass-B09VT4H86B\",\"name\":\"BOXIO TOILET – Trockentrenntoilette\",\"description\":\"Mobile Trockentrenntoilette von BOXIO im Euroboxformat 40 × 30 cm. Trennt flüssige und feste Ausscheidungen; Grundmodell ohne Wasser, Strom oder Toilettenchemie.\",\"url\":\"https://www.amazon.de/dp/B09VT4H86B?th=1&linkCode=ll2&tag=vankompass-21&linkId=be6b736b83481336f74e047bf7aa9c2d&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B09VT4H86B\",\"topics\":[\"camping\",\"camper\",\"sanitär\",\"campingtoilette\",\"trenntoilette\",\"boxio\"],\"asin\":\"B09VT4H86B\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B09VT4H86B. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"}",
+      "revisionHistory": [
+        {
+          "text": "Die im Video beschriebene Boxio ist als BOXIO TOILET im Euroboxformat 40 × 30 cm erhältlich und trennt flüssige und feste Ausscheidungen ohne Wasser, Strom oder Toilettenchemie.",
+          "score": 89,
+          "reason": "Zwischenzeitliche Website-Neugenerierung; ursprüngliche Freigabe live wiederhergestellt."
+        }
+      ],
+      "publication": {
+        "url": "https://vankompass.de/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+        "commit": "f7a907d5ef91b4960bce3c4f7da128b77c6f43f5",
+        "verifiedAt": "2026-10-13T15:19:50.629959+00:00",
+        "target": "_blank",
+        "rel": "noopener sponsored"
+      }
+    },
+    {
+      "id": "van-5bef625f7f43d6583d",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "2acd59d8-8a81-4b97-b112-da1e91661f98",
+      "title": "AFERIY P180 PRO im Ford Nugget: 1 kWh Powerstation im Praxistest",
+      "section": "Inline-Verlinkung in „Einleitung“",
+      "path": "/magazin-strom-aferiy-p180-pro-ford-nugget.html",
+      "url": "https://vankompass.de/magazin-strom-aferiy-p180-pro-ford-nugget.html",
+      "before": "Die AFERIY P180 PRO (Nomad 1800 Pro) ist eine kompakte 1024-Wh-Powerstation mit LiFePO4-Akku, die laut dem Praxistest von Die2Mays problemlos unter die Küche des Ford Nugget passt. Sie bietet einen 1800-W-Sinus-Wechselrichter, USB-C PD mit 140 W und Solarladen per XT60. Gewicht: 11,64 kg. Garantie: 7 Jahre bei Registrierung.",
+      "text": "Die AFERIY P180 PRO – Powerstation (Nomad 1800 Pro) ist eine kompakte 1024-Wh-Powerstation mit LiFePO4-Akku, die laut dem Praxistest von Die2Mays problemlos unter die Küche des Ford Nugget passt. Sie bietet einen 1800-W-Sinus-Wechselrichter, USB-C PD mit 140 W und Solarladen per XT60. Gewicht: 11,64 kg. Garantie: 7 Jahre bei Registrierung.",
+      "editMode": "replace_inline",
+      "linkText": "AFERIY P180 PRO – Powerstation",
+      "reason": "Das Angebot entspricht dem im Artikel behandelten konkreten Modell einschließlich Kapazität, Akkutyp und Ausgangsleistung. Die Verlinkung des bereits genannten Produkts direkt in der Einleitung ist für Leser mit Kaufinteresse hilfreich und bleibt redaktionell unaufdringlich.",
+      "topics": [
+        "camper",
+        "camping",
+        "vanlife",
+        "wohnmobil",
+        "strom",
+        "powerstation",
+        "mobile-stromversorgung",
+        "lifepo4",
+        "solar"
+      ],
+      "status": "freigegeben",
+      "source": "live",
+      "articleHash": "66f53938b2e160d04e6ee36f3eb95aa960d6704873a5e78cd53afba31282e3f1",
+      "offerHash": "e9c8cdc7c87be38bf4a602294907abcb9e6b2c9d4a2b84e6893f0086e42d52f3",
+      "observedAt": "2026-10-13T11:17:26.365229+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 98,
+        "scores": [
+          30,
+          24,
+          25,
+          19
+        ],
+        "reason": "Das Angebot entspricht dem im Artikel behandelten konkreten Modell einschließlich Kapazität, Akkutyp und Ausgangsleistung. Die Verlinkung des bereits genannten Produkts direkt in der Einleitung ist für Leser mit Kaufinteresse hilfreich und bleibt redaktionell unaufdringlich.",
+        "risks": [
+          "Die Zuordnung von AFERIY P180 PRO und Nomad 1800 Pro wird im Artikel selbst genannt, sollte bei der redaktionellen Prüfung aber nochmals gegen die Angebotsseite geprüft werden."
+        ],
+        "block_auto": true,
+        "articleHash": "66f53938b2e160d04e6ee36f3eb95aa960d6704873a5e78cd53afba31282e3f1",
+        "offerHash": "e9c8cdc7c87be38bf4a602294907abcb9e6b2c9d4a2b84e6893f0086e42d52f3",
+        "before": "Die AFERIY P180 PRO (Nomad 1800 Pro) ist eine kompakte 1024-Wh-Powerstation mit LiFePO4-Akku, die laut dem Praxistest von Die2Mays problemlos unter die Küche des Ford Nugget passt. Sie bietet einen 1800-W-Sinus-Wechselrichter, USB-C PD mit 140 W und Solarladen per XT60. Gewicht: 11,64 kg. Garantie: 7 Jahre bei Registrierung.",
+        "text": "Die AFERIY P180 PRO – Powerstation (Nomad 1800 Pro) ist eine kompakte 1024-Wh-Powerstation mit LiFePO4-Akku, die laut dem Praxistest von Die2Mays problemlos unter die Küche des Ford Nugget passt. Sie bietet einen 1800-W-Sinus-Wechselrichter, USB-C PD mit 140 W und Solarladen per XT60. Gewicht: 11,64 kg. Garantie: 7 Jahre bei Registrierung.",
+        "section": "Inline-Verlinkung in „Einleitung“",
+        "editMode": "replace_inline",
+        "linkText": "AFERIY P180 PRO – Powerstation",
+        "checkedAt": "2026-10-13T11:17:26.365229+00:00"
+      },
+      "offerSnapshot": "{\"id\":\"2acd59d8-8a81-4b97-b112-da1e91661f98\",\"name\":\"AFERIY P180 PRO – Powerstation\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"description\":\"Tragbare Powerstation von AFERIY mit 1024 Wh LiFePO4-Akku und 1800 W Ausgangsleistung für mobile Stromversorgung beim Camping und im Camper. PRO-Variante; mit separat erhältlichen Erweiterungsakkus bis auf 5120 Wh erweiterbar.\",\"url\":\"https://www.amazon.de/dp/B0GRHP57JJ?th=1&linkCode=ll2&tag=vankompass-21&linkId=e14fe2fead29ecd96b79074a8203204e&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B0GRHP57JJ\",\"code\":\"\",\"topics\":[\"camper\",\"camping\",\"vanlife\",\"wohnmobil\",\"strom\",\"powerstation\",\"mobile-stromversorgung\",\"lifepo4\",\"solar\"],\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. Tracking-ID: vankompass-21. ASIN: B0GRHP57JJ. Variante: 1800pro-a / AFERIY P180 Pro (Nomad 1800 Pro). Einzelgerät ohne Solarpanel und ohne zusätzliche Erweiterungsakkus. Zentrale Nutzungsfreigabe ausschließlich für VanKompass.\",\"origin\":\"Im Prototyp angelegt\",\"status\":\"aktiv\"}",
+      "revisionHistory": [
+        {
+          "text": "Die AFERIY P180 PRO – Powerstation (Nomad 1800 Pro) ist eine kompakte 1024-Wh-Powerstation mit LiFePO4-Akku, die laut dem Praxistest von Die2Mays problemlos unter die Küche des Ford Nugget passt. Sie bietet einen 1800-W-Sinus-Wechselrichter, USB-C PD mit 140 W und Solarladen per XT60. Gewicht: 11,64 kg. Garantie: 7 Jahre bei Registrierung.",
+          "score": 95,
+          "reason": "Zwischenzeitliche Website-Neugenerierung; ursprüngliche Freigabe live wiederhergestellt."
+        }
+      ],
+      "publication": {
+        "url": "https://vankompass.de/magazin-strom-aferiy-p180-pro-ford-nugget.html",
+        "commit": "f7a907d5ef91b4960bce3c4f7da128b77c6f43f5",
+        "verifiedAt": "2026-10-13T15:19:50.629959+00:00",
+        "target": "_blank",
+        "rel": "noopener sponsored"
+      }
+    },
+    {
+      "id": "live-7c4bf4ebb0384e7d9b",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "2acd59d8-8a81-4b97-b112-da1e91661f98",
+      "title": "Camping-Apps 2026: Die 5 Apps von Camptraum im Praxistest",
+      "section": "Nach einem Absatz in „Landvergnügen: Hof statt Campingplatz“",
+      "path": "/magazin-camper-apps-camping-apps-2026-camptraum.html",
+      "url": "https://vankompass.de/magazin-camper-apps-camping-apps-2026-camptraum.html",
+      "before": "Auf den Höfen gibt es oft keine Toiletten und keinen Strom.",
+      "text": "Wer ohne Landstrom auskommen möchte, kann eine mobile Stromversorgung wie AFERIY P180 PRO – Powerstation einplanen. Sie bietet 1024 Wh Kapazität und 1800 W Ausgangsleistung.",
+      "editMode": "after_paragraph",
+      "linkText": "AFERIY P180 PRO – Powerstation",
+      "reason": "Die Powerstation ergänzt den konkreten Hinweis auf fehlenden Strom bei Landvergnügen und bietet Campern einen praktischen Lösungsansatz. Die genannten Leistungsdaten stammen aus dem Angebot.",
+      "topics": [
+        "camper",
+        "camping",
+        "wohnmobil",
+        "strom",
+        "powerstation"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "ab07d80fca45023c79549b9508defef00bc511d1ed39b150d77f6cc2aa20d598",
+      "offerHash": "a87ca1e886e93166141f96ced5ac46ed5c8fa94b2fefaf54d4ed80bb3dc44d04",
+      "observedAt": "2026-10-13T15:20:34.427754+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 85,
+        "scores": [
+          24,
+          20,
+          23,
+          18
+        ],
+        "reason": "Die Powerstation ergänzt den konkreten Hinweis auf fehlenden Strom bei Landvergnügen und bietet Campern einen praktischen Lösungsansatz. Die genannten Leistungsdaten stammen aus dem Angebot.",
+        "risks": [
+          "Die tatsächliche Eignung hängt vom individuellen Strombedarf und den angeschlossenen Geräten ab."
+        ],
+        "block_auto": false,
+        "articleHash": "ab07d80fca45023c79549b9508defef00bc511d1ed39b150d77f6cc2aa20d598",
+        "offerHash": "a87ca1e886e93166141f96ced5ac46ed5c8fa94b2fefaf54d4ed80bb3dc44d04",
+        "before": "Auf den Höfen gibt es oft keine Toiletten und keinen Strom.",
+        "text": "Wer ohne Landstrom auskommen möchte, kann eine mobile Stromversorgung wie AFERIY P180 PRO – Powerstation einplanen. Sie bietet 1024 Wh Kapazität und 1800 W Ausgangsleistung.",
+        "section": "Nach einem Absatz in „Landvergnügen: Hof statt Campingplatz“",
+        "editMode": "after_paragraph",
+        "linkText": "AFERIY P180 PRO – Powerstation",
+        "checkedAt": "2026-10-13T15:07:40.048029+00:00",
+        "cached": true
+      },
+      "offerSnapshot": "{\"id\":\"2acd59d8-8a81-4b97-b112-da1e91661f98\",\"name\":\"AFERIY P180 PRO – Powerstation\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"description\":\"Tragbare Powerstation von AFERIY mit 1024 Wh LiFePO4-Akku und 1800 W Ausgangsleistung für mobile Stromversorgung beim Camping und im Camper. PRO-Variante; mit separat erhältlichen Erweiterungsakkus bis auf 5120 Wh erweiterbar.\",\"url\":\"https://www.amazon.de/dp/B0GRHP57JJ?th=1&linkCode=ll2&tag=vankompass-21&linkId=e14fe2fead29ecd96b79074a8203204e&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B0GRHP57JJ\",\"code\":\"\",\"topics\":[\"camper\",\"camping\",\"vanlife\",\"wohnmobil\",\"strom\",\"powerstation\",\"mobile-stromversorgung\",\"lifepo4\",\"solar\"],\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. Tracking-ID: vankompass-21. ASIN: B0GRHP57JJ. Variante: 1800pro-a / AFERIY P180 Pro (Nomad 1800 Pro). Einzelgerät ohne Solarpanel und ohne zusätzliche Erweiterungsakkus. Zentrale Nutzungsfreigabe ausschließlich für VanKompass.\",\"origin\":\"Im Prototyp angelegt\",\"status\":\"aktiv\"}"
+    },
+    {
+      "id": "van-14374cb62c64588291",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "amazon-vankompass-B09VT4H86B",
+      "title": "VANING Concept C im VW California Beach: Bett, Küche und Stauraum",
+      "section": "Nach einem Absatz in „Bettmodul: Schlafen und Stauraum in einem“",
+      "path": "/magazin-schlafen-vaning-concept-c-vw-california.html",
+      "url": "https://vankompass.de/magazin-schlafen-vaning-concept-c-vw-california.html",
+      "before": "Als Beispiele zeigt der Sprecher ein Boxio-System mit einer Trendtoilette sowie Wasserhahn- und Waschbeckensysteme.",
+      "text": "Als konkretes Beispiel für eine mobile Trenntoilette im Euroboxformat kommt die BOXIO TOILET – Trockentrenntoilette infrage. Ob sie mit dem gezeigten Boxio-System identisch ist und sich dort tatsächlich verwenden lässt, geht aus dem Artikel nicht hervor.",
+      "editMode": "after_paragraph",
+      "linkText": "BOXIO TOILET – Trockentrenntoilette",
+      "reason": "Das Angebot passt thematisch direkt zur im Video erwähnten Trendtoilette und ergänzt den Absatz um ein konkretes Produkt. Die Formulierung vermeidet eine unbelegte Behauptung zur Identität oder Kompatibilität.",
+      "topics": [
+        "camper",
+        "boxio"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "51b83541849fa35c449e4c55eef835b99311a25be8d2fa7ae4c0fd4a509c6c38",
+      "offerHash": "9597171881a885931471ac21417347d10145307f2443a1314e4414602ee2de74",
+      "observedAt": "2026-10-13T15:20:34.427754+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 82,
+        "scores": [
+          25,
+          19,
+          23,
+          15
+        ],
+        "reason": "Das Angebot passt thematisch direkt zur im Video erwähnten Trendtoilette und ergänzt den Absatz um ein konkretes Produkt. Die Formulierung vermeidet eine unbelegte Behauptung zur Identität oder Kompatibilität.",
+        "risks": [
+          "Die genaue Modellreihe der im Video gezeigten Trendtoilette ist ungeklärt.",
+          "Die Kompatibilität mit dem gezeigten Boxio-System ist nicht belegt."
+        ],
+        "block_auto": true,
+        "articleHash": "51b83541849fa35c449e4c55eef835b99311a25be8d2fa7ae4c0fd4a509c6c38",
+        "offerHash": "9597171881a885931471ac21417347d10145307f2443a1314e4414602ee2de74",
+        "before": "Als Beispiele zeigt der Sprecher ein Boxio-System mit einer Trendtoilette sowie Wasserhahn- und Waschbeckensysteme.",
+        "text": "Als konkretes Beispiel für eine mobile Trenntoilette im Euroboxformat kommt die BOXIO TOILET – Trockentrenntoilette infrage. Ob sie mit dem gezeigten Boxio-System identisch ist und sich dort tatsächlich verwenden lässt, geht aus dem Artikel nicht hervor.",
+        "section": "Nach einem Absatz in „Bettmodul: Schlafen und Stauraum in einem“",
+        "editMode": "after_paragraph",
+        "linkText": "BOXIO TOILET – Trockentrenntoilette",
+        "checkedAt": "2026-10-13T15:07:40.048029+00:00",
+        "cached": true
+      },
+      "offerSnapshot": "{\"id\":\"amazon-vankompass-B09VT4H86B\",\"name\":\"BOXIO TOILET – Trockentrenntoilette\",\"description\":\"Mobile Trockentrenntoilette von BOXIO im Euroboxformat 40 × 30 cm. Trennt flüssige und feste Ausscheidungen; Grundmodell ohne Wasser, Strom oder Toilettenchemie.\",\"url\":\"https://www.amazon.de/dp/B09VT4H86B?th=1&linkCode=ll2&tag=vankompass-21&linkId=be6b736b83481336f74e047bf7aa9c2d&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B09VT4H86B\",\"topics\":[\"camping\",\"camper\",\"sanitär\",\"campingtoilette\",\"trenntoilette\",\"boxio\"],\"asin\":\"B09VT4H86B\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B09VT4H86B. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"}",
+      "verification": {
+        "articleContains": "vaning-concept-c",
+        "status": "family_and_form_factor_verified",
+        "summary": "VANING-Originalvideo bei 02:31–02:38 zeigt BOXIO-Boxen und nennt die Trenntoilette im Concept-C-Auszug. VANING bestätigt Eurobox-Heckauszug; BOXIO-Grundmodell misst 40 × 30 × 28 cm. Gezeigte Produktfamilie und Nutzung bestätigt. Genaue aktuelle Amazon-Artikelvariante nicht im Video genannt; keine pauschale Passgarantie für andere Konfigurationen. Weiterhin manuelle Freigabe.",
+        "sources": [
+          "https://www.youtube.com/watch?v=gEfPp2_dcLY&t=151s",
+          "https://vaning.de/concept-c/",
+          "https://boxio.de/products/trenntoilette"
+        ],
+        "checkedAt": "2026-10-13T15:19:50.629959+00:00"
+      }
+    },
+    {
+      "id": "live-eaa6da6f04e9832f1d",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "2acd59d8-8a81-4b97-b112-da1e91661f98",
+      "title": "10 Camping-Gegenstände fürs Wohnmobil: Grundausstattung aus dem Video",
+      "section": "Nach einem Absatz in „Die zehn Gegenstände im Überblick“",
+      "path": "/magazin-stauraum-camping-gegenstaende-wohnmobil-1kk.html",
+      "url": "https://vankompass.de/magazin-stauraum-camping-gegenstaende-wohnmobil-1kk.html",
+      "before": "Powerstation mit Solarpanel zum Laden elektronischer Kleingeräte unterwegs.",
+      "text": "Als konkrete Powerstation für mobile Stromversorgung beim Camping kommt die AFERIY P180 PRO – Powerstation infrage. Ein Solarpanel ist in der Angebotsbeschreibung nicht enthalten.",
+      "editMode": "after_paragraph",
+      "linkText": "AFERIY P180 PRO – Powerstation",
+      "reason": "Das Angebot passt zur im Artikel genannten Powerstation und zum Campingkontext. Es bietet Lesern eine konkrete Produktoption, ohne eine Modellgleichheit mit dem Video zu behaupten.",
+      "topics": [
+        "camper",
+        "camping",
+        "vanlife",
+        "wohnmobil",
+        "strom",
+        "powerstation",
+        "solar"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "5d9aa649aa2ccfc7e0d832c9aac2a419132dc63f3e7d375d2c730bb47ef4063b",
+      "offerHash": "a87ca1e886e93166141f96ced5ac46ed5c8fa94b2fefaf54d4ed80bb3dc44d04",
+      "observedAt": "2026-10-13T15:20:34.427754+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 82,
+        "scores": [
+          25,
+          18,
+          22,
+          17
+        ],
+        "reason": "Das Angebot passt zur im Artikel genannten Powerstation und zum Campingkontext. Es bietet Lesern eine konkrete Produktoption, ohne eine Modellgleichheit mit dem Video zu behaupten.",
+        "risks": [
+          "Die Angebotsbeschreibung nennt kein enthaltenes Solarpanel, obwohl der Artikel eine Powerstation mit Solarpanel beschreibt.",
+          "VanKompass hat das Produkt laut Artikel nicht selbst getestet."
+        ],
+        "block_auto": true,
+        "articleHash": "5d9aa649aa2ccfc7e0d832c9aac2a419132dc63f3e7d375d2c730bb47ef4063b",
+        "offerHash": "a87ca1e886e93166141f96ced5ac46ed5c8fa94b2fefaf54d4ed80bb3dc44d04",
+        "before": "Powerstation mit Solarpanel zum Laden elektronischer Kleingeräte unterwegs.",
+        "text": "Als konkrete Powerstation für mobile Stromversorgung beim Camping kommt die AFERIY P180 PRO – Powerstation infrage. Ein Solarpanel ist in der Angebotsbeschreibung nicht enthalten.",
+        "section": "Nach einem Absatz in „Die zehn Gegenstände im Überblick“",
+        "editMode": "after_paragraph",
+        "linkText": "AFERIY P180 PRO – Powerstation",
+        "checkedAt": "2026-10-13T15:10:27.095915+00:00",
+        "cached": true
+      },
+      "offerSnapshot": "{\"id\":\"2acd59d8-8a81-4b97-b112-da1e91661f98\",\"name\":\"AFERIY P180 PRO – Powerstation\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"description\":\"Tragbare Powerstation von AFERIY mit 1024 Wh LiFePO4-Akku und 1800 W Ausgangsleistung für mobile Stromversorgung beim Camping und im Camper. PRO-Variante; mit separat erhältlichen Erweiterungsakkus bis auf 5120 Wh erweiterbar.\",\"url\":\"https://www.amazon.de/dp/B0GRHP57JJ?th=1&linkCode=ll2&tag=vankompass-21&linkId=e14fe2fead29ecd96b79074a8203204e&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B0GRHP57JJ\",\"code\":\"\",\"topics\":[\"camper\",\"camping\",\"vanlife\",\"wohnmobil\",\"strom\",\"powerstation\",\"mobile-stromversorgung\",\"lifepo4\",\"solar\"],\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. Tracking-ID: vankompass-21. ASIN: B0GRHP57JJ. Variante: 1800pro-a / AFERIY P180 Pro (Nomad 1800 Pro). Einzelgerät ohne Solarpanel und ohne zusätzliche Erweiterungsakkus. Zentrale Nutzungsfreigabe ausschließlich für VanKompass.\",\"origin\":\"Im Prototyp angelegt\",\"status\":\"aktiv\"}"
+    },
+    {
+      "id": "live-f39c35b0f78d7e24bd",
+      "site": "2c5cba86-e337-4da3-acff-87a960bed33b",
+      "offer": "amazon-vankompass-B073ZJ3L13",
+      "title": "LiFePO4 oder AGM im Wohnmobil: Die größten Fehler beim Umbau vermeiden",
+      "section": "Nach einem Absatz in „1. Solarladeregler“",
+      "path": "/magazin-strom-lifepo4-umbau-fehler-agm-tauschen-mr-togi.html",
+      "url": "https://vankompass.de/magazin-strom-lifepo4-umbau-fehler-agm-tauschen-mr-togi.html",
+      "before": "Der Solarladeregler muss für LiFePO4 geeignet sein. Aktuelle Victron-Regler mit App-Steuerung lassen sich laut Video einfach in der App auf LiFePO4 umstellen. Bei einem alten PWM-Laderegler empfiehlt der Tester: Typenschild abschreiben, bei Google eingeben und LiFePO4 dahinter schreiben. So bekommst du in der Regel eine klare Aussage, ob das Gerät passt.",
+      "text": "Ein konkretes Beispiel für einen Victron-Solarladeregler mit App-Steuerung ist der Victron SmartSolar MPPT 100/30. Ob dieses Modell elektrisch und von der Batteriekonfiguration her zu deinem Fahrzeug passt, musst du vor dem Kauf anhand der technischen Daten prüfen.",
+      "editMode": "after_paragraph",
+      "linkText": "Victron SmartSolar MPPT 100/30",
+      "reason": "Das Angebot passt thematisch direkt zum Abschnitt über Solarladeregler und ergänzt die allgemeine Nennung von Victron um ein konkretes Produkt. Der Hinweis auf die notwendige Prüfung schützt vor einer unbelegten Kompatibilitätsbehauptung.",
+      "topics": [
+        "camper",
+        "wohnmobil",
+        "solar",
+        "laderegler",
+        "victron"
+      ],
+      "status": "offen",
+      "source": "live",
+      "articleHash": "8b3c6e595a4380affb6fcea471edec91a8cc7dbf65b06d950069c05e127b3a96",
+      "offerHash": "a748d008fb076c08ddb2826a8305adb1b36fbe01f84503dc7be9870823081b85",
+      "observedAt": "2026-10-13T15:20:34.427754+00:00",
+      "method": "gpt-5.6-luna",
+      "reviewOnly": true,
+      "affiliateLinkCount": 0,
+      "affiliateLinkLimit": 3,
+      "aiAssessment": {
+        "model": "gpt-5.6-luna",
+        "version": "luna-editorial-1",
+        "score": 84,
+        "scores": [
+          25,
+          19,
+          23,
+          17
+        ],
+        "reason": "Das Angebot passt thematisch direkt zum Abschnitt über Solarladeregler und ergänzt die allgemeine Nennung von Victron um ein konkretes Produkt. Der Hinweis auf die notwendige Prüfung schützt vor einer unbelegten Kompatibilitätsbehauptung.",
+        "risks": [
+          "Der Artikel nennt nur Victron 100/30; die genaue Modellreihe und die Eignung für das konkrete Fahrzeug sind redaktionell zu prüfen.",
+          "Die Ergänzung ist vor einer automatischen Veröffentlichung redaktionell auf technische Daten und Einbaukontext zu prüfen."
+        ],
+        "block_auto": true,
+        "articleHash": "8b3c6e595a4380affb6fcea471edec91a8cc7dbf65b06d950069c05e127b3a96",
+        "offerHash": "a748d008fb076c08ddb2826a8305adb1b36fbe01f84503dc7be9870823081b85",
+        "before": "Der Solarladeregler muss für LiFePO4 geeignet sein. Aktuelle Victron-Regler mit App-Steuerung lassen sich laut Video einfach in der App auf LiFePO4 umstellen. Bei einem alten PWM-Laderegler empfiehlt der Tester: Typenschild abschreiben, bei Google eingeben und LiFePO4 dahinter schreiben. So bekommst du in der Regel eine klare Aussage, ob das Gerät passt.",
+        "text": "Ein konkretes Beispiel für einen Victron-Solarladeregler mit App-Steuerung ist der Victron SmartSolar MPPT 100/30. Ob dieses Modell elektrisch und von der Batteriekonfiguration her zu deinem Fahrzeug passt, musst du vor dem Kauf anhand der technischen Daten prüfen.",
+        "section": "Nach einem Absatz in „1. Solarladeregler“",
+        "editMode": "after_paragraph",
+        "linkText": "Victron SmartSolar MPPT 100/30",
+        "checkedAt": "2026-10-13T15:07:40.048029+00:00",
+        "cached": true
+      },
+      "offerSnapshot": "{\"id\":\"amazon-vankompass-B073ZJ3L13\",\"name\":\"Victron SmartSolar MPPT 100/30\",\"description\":\"MPPT-Solarladeregler von Victron Energy für 12-/24-V-Batteriesysteme mit integriertem Bluetooth, maximal 100 V PV-Leerlaufspannung und 30 A Ladestrom. SmartSolar-Variante; elektrische Auslegung und Batteriekonfiguration müssen zum Fahrzeug passen. Im Vergleichsartikel ist nur Victron 100/30 genannt, die genaue Modellreihe bleibt redaktionell zu prüfen.\",\"url\":\"https://www.amazon.de/dp/B073ZJ3L13?th=1&linkCode=ll2&tag=vankompass-21&linkId=d33e6cbdfbcfbfff3e14df2726d206c2&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B073ZJ3L13\",\"topics\":[\"camper\",\"wohnmobil\",\"solar\",\"solaranlage\",\"laderegler\",\"mppt\",\"victron\"],\"asin\":\"B073ZJ3L13\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B073ZJ3L13. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"}"
+    }
+  ],
+  "lastError": null,
+  "lastRun": {
+    "siteId": "2c5cba86-e337-4da3-acff-87a960bed33b",
+    "website": "https://vankompass.de/",
+    "checkedAt": "2026-10-13T15:20:34.427754+00:00",
+    "articles": 44,
+    "missingPublications": [],
+    "changedArticles": 2,
+    "offers": 6,
+    "checkedPairs": 0,
+    "reusedPairs": 14,
+    "modelCalls": 0,
+    "candidates": 4,
+    "skipped": {
+      "Keine ausreichende Themenübereinstimmung": 132,
+      "Nur allgemeine Campingthemen": 110,
+      "Luna: unter Freigabeschwelle": 5,
+      "Affiliate-Angebot bereits verlinkt": 3,
+      "Genaue Modellzuordnung ungeklärt": 1
+    },
+    "errors": [],
+    "model": "gpt-5.6-luna",
+    "linkLimit": 3,
+    "linkCounts": [
+      {
+        "url": "https://vankompass.de/magazin-aussenbereich-markise-wohnmobil-fehler-mr-togi.html",
+        "title": "Markise am Wohnmobil: Fehler vermeiden, Tipps aus dem Mr.-Togi-Video",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-aussenbereich-obelink-rio-280-easy-air-vorzelt-kastenwagen-vanfan.html",
+        "title": "Obelink Rio 280 easy air: Aufblasbares Vorzelt für 6-Meter-Kastenwagen im Test",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-camper-apps-camping-apps-2026-camptraum.html",
+        "title": "Camping-Apps 2026: Die 5 Apps von Camptraum im Praxistest",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 1,
+        "remaining": 2
+      },
+      {
+        "url": "https://vankompass.de/magazin-camper-apps-navi-apps-wohnmobil-test-kreta.html",
+        "title": "Navi-App fürs Wohnmobil im Test: 8 Apps auf Kreta, zwei Sieger",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-camper-apps-stellplatz-apps-park4night-ioverlander-campingapp-eu.html",
+        "title": "Stellplatz-Apps im Test: Park4Night, iOverlander und Camping App EU",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-cockpit-gebraucht-oder-neu-campervan-guema.html",
+        "title": "Gebrauchter Campervan oder Neuwagen? Was der Händler im Video sagt",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-cockpit-rueckfahrkamera-wohnmobil-handy-bergmann-koch-camper4ever.html",
+        "title": "Rückfahrkamera mit Bild auf dem Handy: Bergmann+Koch Kamera im Wohnmobil-Test",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-heizung-dieselheizung-wohnmobil-probleme-check-womo-blog.html",
+        "title": "Dieselheizung im Wohnmobil: Geruch, Ruß, Wartung. Vier Hersteller im Check",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-heizung-lf-bros-standheizung-einbau-travanture.html",
+        "title": "Standheizung im Camper nachrüsten: LF Bros 2 kW Einbau Schritt für Schritt",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-internet-lte-5g-router-wohnmobil-vergleich-fritzbox-netgear-teltonika-camperhelp.html",
+        "title": "LTE und 5G Router im Wohnmobil: Fritzbox, Netgear und Teltonika im Vergleich",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-internet-starlink-mini-wohnmobil-test-fan4van.html",
+        "title": "Starlink Mini im Wohnmobil: Test mit Speedtests, Tarifen und USB-C-Betrieb",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-kueche-camper-kuechen-gadgets-grossewelt.html",
+        "title": "7 Küchen-Gadgets für den Camper: Gläser, Wasserkocher und Stabmixer",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-kueche-randi-kuechen-hacks-kleiner-camper.html",
+        "title": "Küche im kleinen Camper organisieren: über 25 Hacks aus dem Video",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sanitaer-campingplatz-anfaenger-5-tipps-checkliste.html",
+        "title": "Campingplatz für Anfänger: 5 Dinge, die du nicht vergessen solltest",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+        "title": "Chemietoilette oder Trenntoilette im Camper: Porta Potti 335 gegen Boxio",
+        "existing": 2,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 1
+      },
+      {
+        "url": "https://vankompass.de/magazin-schlafen-fanello-rooftop-matratze-vw-california.html",
+        "title": "Fanello roofTop im VW California: Matratze fürs Dachbett im Erfahrungsbericht",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-schlafen-vaning-concept-c-vw-california.html",
+        "title": "VANING Concept C im VW California Beach: Bett, Küche und Stauraum",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 1,
+        "remaining": 2
+      },
+      {
+        "url": "https://vankompass.de/magazin-sicherheit-co-melder-position-camp-your-life.html",
+        "title": "CO-Melder im Camper richtig montieren: Höhe, Abstand und typische Fehler",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sicherheit-heosafe-zusatzschloss-wohnmobil-einbau-leni-toni.html",
+        "title": "Zusatzschloss im Wohnmobil einbauen: HEOSafe am Ducato Schritt für Schritt",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sitze-doppel-drehkonsole-fiat-ducato-vancationride.html",
+        "title": "Drehkonsole im Fiat Ducato nachrüsten: Doppelsitz drehbar machen, Einbau und TÜV",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sitze-drehkonsole-fahrersitz-lohnt-sich-camper-truepassiontravel.html",
+        "title": "Drehkonsole am Fahrersitz nachrüsten: Lohnt sich der Umbau im Fiat Ducato?",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-solar-solaranlage-wohnmobil-watt-berechnung.html",
+        "title": "Solaranlage im Wohnmobil: So berechnest du Watt und Batterie",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-solar-solartasche-kaufberatung-wattstunde-ecoflow-bergbrise.html",
+        "title": "Solartasche im Vergleich: Wattstunde 140, 200 und 330 WP gegen EcoFlow 400 WP",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sound-dynavin-d8-dcx-plus-flex-radio-wohnmobil-carplay-gero-d.html",
+        "title": "Dynavin D8-DCX Plus Flex im Wohnmobil: 10,1-Zoll-Radio mit CarPlay und Navi",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-sound-lautsprecher-tauschen-daemmung-fiat-ducato.html",
+        "title": "Lautsprecher tauschen und Türen dämmen im Fiat Ducato: Was bringt mehr?",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-campervan-crew-5-tipps-erster-tag.html",
+        "title": "5 Camper-Tipps für den ersten Tag: Mückenschutz, Gewicht, Batterie, Klappern",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-camping-gegenstaende-wohnmobil-1kk.html",
+        "title": "10 Camping-Gegenstände fürs Wohnmobil: Grundausstattung aus dem Video",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 1,
+        "remaining": 2
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-gebrauchter-campervan-kauf-adac-checkliste.html",
+        "title": "Gebrauchter Campervan kaufen: Prüfpunkte aus dem ADAC-Video",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-grundausstattung-wohnmobil-fan4van.html",
+        "title": "Wohnmobil Grundausstattung: Checkliste aus dem Praxis-Video von fan 4 van",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-hochschrank-aluprofil-queenply-t61.html",
+        "title": "Hochschrank im VW T6.1 Selbstausbau: Kleiderschrank aus Aluprofil und Queenply",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-ikea-hacks-camper-organisation.html",
+        "title": "Camper organisieren mit IKEA-Hacks: Filzboxen, Magnet-Besteck und eckige Dosen",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-marco-polo-zubehoer-top-5-gadgets-maligator.html",
+        "title": "Marco Polo Zubehör: Die Top 5 Gadgets von Team Maligator im Überblick",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-wahrheit-nach-anderthalb-jahren-wohnmobilleben-jeanne-herzog.html",
+        "title": "Leben im Wohnmobil: Die Wahrheit nach anderthalb Jahren laut Jeanne Herzog",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-waldhelden-6-camping-fehler.html",
+        "title": "6 Camping-Fehler für Einsteiger: Was das Waldhelden-Video sagt",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-warum-vanlife-nicht-gluecklich-macht-jannick.html",
+        "title": "Warum Vanlife nicht glücklich macht: Jannicks Realitäts-Check nach 1,5 Jahren",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-stauraum-wohnmobil-kauf-rentner-vier-fehler.html",
+        "title": "Wohnmobil im Rentenalter kaufen: die vier Fehler laut Video",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-strom-aferiy-p180-pro-ford-nugget.html",
+        "title": "AFERIY P180 PRO im Ford Nugget: 1 kWh Powerstation im Praxistest",
+        "existing": 1,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 2
+      },
+      {
+        "url": "https://vankompass.de/magazin-strom-lifepo4-180ah-vw-grand-california-vantertainment.html",
+        "title": "VW Grand California Lithium-Batterie nachrüsten: 180 Ah LiFePO4 statt 92 Ah AGM",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-strom-lifepo4-umbau-fehler-agm-tauschen-mr-togi.html",
+        "title": "LiFePO4 oder AGM im Wohnmobil: Die größten Fehler beim Umbau vermeiden",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 1,
+        "remaining": 2
+      },
+      {
+        "url": "https://vankompass.de/magazin-strom-sprinter-camper-elektrik-schaltplan-hinundwiederweg.html",
+        "title": "Sprinter Ausbau Elektrik: Autarkes 12V- und 230V-Setup mit Schaltplan",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-verdunkelung-campervan-crew-hitze-ohne-klimaanlage.html",
+        "title": "Camper ohne Klimaanlage kühl halten: vier Hitze-Tricks aus dem Praxisvideo",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-verdunkelung-kondenswasser-wohnmobil-nachts-vermeiden-inside-camper.html",
+        "title": "Kondenswasser im Wohnmobil nachts: Was wirklich hilft laut Inside Camper",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-wasser-frischwassertank-reinigen-adac.html",
+        "title": "Frischwassertank im Camper reinigen: Anleitung aus dem ADAC-Video",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      },
+      {
+        "url": "https://vankompass.de/magazin-wasser-wohnmobil-einwintern-wasser-ablassen-inside-camper.html",
+        "title": "Wohnmobil winterfest machen: Wasser ablassen in 5 Schritten laut Inside Camper",
+        "existing": 0,
+        "limit": 3,
+        "reserved": 0,
+        "remaining": 3
+      }
+    ],
+    "method": "Echte Luna-Bewertung; nur Freigabe-Entwürfe; unveränderte Artikel/Angebote aus Cache",
+    "coverage": "Magazinartikel aus der Sitemap · Linkzählung auf der gesamten Artikelseite (jede Linkstelle zählt)",
+    "articleUrls": [
+      "https://vankompass.de/magazin-aussenbereich-markise-wohnmobil-fehler-mr-togi.html",
+      "https://vankompass.de/magazin-aussenbereich-obelink-rio-280-easy-air-vorzelt-kastenwagen-vanfan.html",
+      "https://vankompass.de/magazin-camper-apps-camping-apps-2026-camptraum.html",
+      "https://vankompass.de/magazin-camper-apps-navi-apps-wohnmobil-test-kreta.html",
+      "https://vankompass.de/magazin-camper-apps-stellplatz-apps-park4night-ioverlander-campingapp-eu.html",
+      "https://vankompass.de/magazin-cockpit-gebraucht-oder-neu-campervan-guema.html",
+      "https://vankompass.de/magazin-cockpit-rueckfahrkamera-wohnmobil-handy-bergmann-koch-camper4ever.html",
+      "https://vankompass.de/magazin-heizung-dieselheizung-wohnmobil-probleme-check-womo-blog.html",
+      "https://vankompass.de/magazin-heizung-lf-bros-standheizung-einbau-travanture.html",
+      "https://vankompass.de/magazin-internet-lte-5g-router-wohnmobil-vergleich-fritzbox-netgear-teltonika-camperhelp.html",
+      "https://vankompass.de/magazin-internet-starlink-mini-wohnmobil-test-fan4van.html",
+      "https://vankompass.de/magazin-kueche-camper-kuechen-gadgets-grossewelt.html",
+      "https://vankompass.de/magazin-kueche-randi-kuechen-hacks-kleiner-camper.html",
+      "https://vankompass.de/magazin-sanitaer-campingplatz-anfaenger-5-tipps-checkliste.html",
+      "https://vankompass.de/magazin-sanitaer-chemietoilette-oder-trenntoilette-porta-potti-boxio-mobyvan.html",
+      "https://vankompass.de/magazin-schlafen-fanello-rooftop-matratze-vw-california.html",
+      "https://vankompass.de/magazin-schlafen-vaning-concept-c-vw-california.html",
+      "https://vankompass.de/magazin-sicherheit-co-melder-position-camp-your-life.html",
+      "https://vankompass.de/magazin-sicherheit-heosafe-zusatzschloss-wohnmobil-einbau-leni-toni.html",
+      "https://vankompass.de/magazin-sitze-doppel-drehkonsole-fiat-ducato-vancationride.html",
+      "https://vankompass.de/magazin-sitze-drehkonsole-fahrersitz-lohnt-sich-camper-truepassiontravel.html",
+      "https://vankompass.de/magazin-solar-solaranlage-wohnmobil-watt-berechnung.html",
+      "https://vankompass.de/magazin-solar-solartasche-kaufberatung-wattstunde-ecoflow-bergbrise.html",
+      "https://vankompass.de/magazin-sound-dynavin-d8-dcx-plus-flex-radio-wohnmobil-carplay-gero-d.html",
+      "https://vankompass.de/magazin-sound-lautsprecher-tauschen-daemmung-fiat-ducato.html",
+      "https://vankompass.de/magazin-stauraum-campervan-crew-5-tipps-erster-tag.html",
+      "https://vankompass.de/magazin-stauraum-camping-gegenstaende-wohnmobil-1kk.html",
+      "https://vankompass.de/magazin-stauraum-gebrauchter-campervan-kauf-adac-checkliste.html",
+      "https://vankompass.de/magazin-stauraum-grundausstattung-wohnmobil-fan4van.html",
+      "https://vankompass.de/magazin-stauraum-hochschrank-aluprofil-queenply-t61.html",
+      "https://vankompass.de/magazin-stauraum-ikea-hacks-camper-organisation.html",
+      "https://vankompass.de/magazin-stauraum-marco-polo-zubehoer-top-5-gadgets-maligator.html",
+      "https://vankompass.de/magazin-stauraum-wahrheit-nach-anderthalb-jahren-wohnmobilleben-jeanne-herzog.html",
+      "https://vankompass.de/magazin-stauraum-waldhelden-6-camping-fehler.html",
+      "https://vankompass.de/magazin-stauraum-warum-vanlife-nicht-gluecklich-macht-jannick.html",
+      "https://vankompass.de/magazin-stauraum-wohnmobil-kauf-rentner-vier-fehler.html",
+      "https://vankompass.de/magazin-strom-aferiy-p180-pro-ford-nugget.html",
+      "https://vankompass.de/magazin-strom-lifepo4-180ah-vw-grand-california-vantertainment.html",
+      "https://vankompass.de/magazin-strom-lifepo4-umbau-fehler-agm-tauschen-mr-togi.html",
+      "https://vankompass.de/magazin-strom-sprinter-camper-elektrik-schaltplan-hinundwiederweg.html",
+      "https://vankompass.de/magazin-verdunkelung-campervan-crew-hitze-ohne-klimaanlage.html",
+      "https://vankompass.de/magazin-verdunkelung-kondenswasser-wohnmobil-nachts-vermeiden-inside-camper.html",
+      "https://vankompass.de/magazin-wasser-frischwassertank-reinigen-adac.html",
+      "https://vankompass.de/magazin-wasser-wohnmobil-einwintern-wasser-ablassen-inside-camper.html"
+    ],
+    "inputSignature": "{\"site\":{\"id\":\"2c5cba86-e337-4da3-acff-87a960bed33b\",\"name\":\"VanKompass\",\"domain\":\"https://vankompass.de/\",\"topics\":[\"camper\",\"camping\",\"vanlife\",\"camper-ausrüstung\",\"wohnmobil\",\"strom\",\"powerstation\",\"solar\",\"schlafen\",\"sanitär\",\"küche\",\"wasser\",\"heizung\",\"verdunkelung\"],\"audience\":\"Camper- und Wohnmobilbesitzer sowie Menschen im Van-Ausbau, die passende Ausrüstung, Praxistests und Ratgeber für ihr Fahrzeug suchen.\",\"language\":\"DE\",\"status\":\"aktiv\"},\"offers\":[{\"id\":\"o2\",\"name\":\"Schnelles Denken, langsames Denken\",\"provider\":\"Amazon Associates\",\"category\":\"Buch\",\"description\":\"Daniel Kahnemans Buch über intuitives und bewusstes Denken sowie typische Verzerrungen bei Entscheidungen.\",\"url\":\"https://www.amazon.de/Schnelles-Denken-langsames-Daniel-Kahneman/dp/3328100342?crid=3PCLWFP947QKA&dib=eyJ2IjoiMSJ9.lmOiVB8Xw-ioMzgL10swinzXrfQGwMYYiXMz3EEynmYKBT_GLBZ6vBfhdsve0S09bGlHFz8jVcVyOPd7padu2nSq7mo5aI21y37YFD72utVvd1whisqjECw3Y2qCeS9dkRmci5yc9LtQfO3dS1XR7w8kCzqdWqC1CeOjd5XUMrJmtRqvgTwoJA2txBKMzifAlQ03GgghBX-ulpVshwX7uawN0a8pf68JgrZrR8biUmM.26RLX2GXLql2EWhjMBdxkovIFP0ZkWyL2E0fa98lbms&dib_tag=se&keywords=kahnemann+schnelles+denken+langsames+denken&qid=1778175394&sprefix=kahne%2Caps%2C126&sr=8-1&linkCode=ll2&tag=entscheidungsframework-21&linkId=f277c20262da3dcb1c44a125199f23c5&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/3328100342\",\"code\":\"\",\"topics\":[\"entscheidung\",\"kognition\",\"psychologie\",\"heuristik\",\"denken\"],\"scope\":\"selected\",\"sites\":[\"s1\"],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Amazon SiteStripe · geprüft am 12.10.2026. Tracking-ID: entscheidungsframework-21. ASIN: 3328100342; ISBN: 9783328100348. Deutsches Taschenbuch von Daniel Kahneman. Link ausschließlich für Entscheidungsframework verwenden.\"},{\"id\":\"o3\",\"name\":\"Aktionscode Quirion\",\"provider\":\"Direktpartner\",\"category\":\"Service\",\"description\":\"Digitaler Anbieter für Geldanlage. Ein vorhandener Aktionscode ist hinterlegt; aktuelle Konditionen sind hier nicht geprüft.\",\"url\":\"https://www.quirion.de/\",\"target\":\"https://www.quirion.de/\",\"code\":\"4C57EE\",\"topics\":[\"geldanlage\",\"etf\",\"finanzen\",\"altersvorsorge\"],\"scope\":\"all\",\"sites\":[],\"status\":\"aktiv\",\"origin\":\"Vorhandener Eintrag\",\"notes\":\"Die bisherige allgemeine Zuordnung wird nur zur Demonstration übernommen. Keine geprüfte Finanzempfehlung.\"},{\"id\":\"bef74590-6d29-45ec-8372-c71df1b9e8e9\",\"name\":\"Skool – eigene Online-Community aufbauen\",\"provider\":\"Skool · Direktpartner\",\"category\":\"Software\",\"description\":\"Skool ist eine Plattform zum Aufbau und Betrieb eigener Online-Communitys. Der Link führt zur Registrierung für eine eigene Community.\",\"url\":\"https://www.skool.com/signup?ref=c22ca4e4c7cb45c88a386fa8802cfe3e\",\"target\":\"https://www.skool.com/signup\",\"code\":\"\",\"topics\":[\"community\",\"online-community\",\"community-aufbau\",\"mitgliedschaft\",\"creator-business\"],\"scope\":\"all\",\"notes\":\"Affiliate-Link von Markus bereitgestellt. Zielseite geprüft am 13.10.2026: Registrierung für eine eigene Community. Von Markus zentral für alle jetzigen und zukünftigen Websites freigegeben.\",\"sites\":[],\"origin\":\"Im Prototyp angelegt\",\"status\":\"aktiv\"},{\"id\":\"2acd59d8-8a81-4b97-b112-da1e91661f98\",\"name\":\"AFERIY P180 PRO – Powerstation\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"description\":\"Tragbare Powerstation von AFERIY mit 1024 Wh LiFePO4-Akku und 1800 W Ausgangsleistung für mobile Stromversorgung beim Camping und im Camper. PRO-Variante; mit separat erhältlichen Erweiterungsakkus bis auf 5120 Wh erweiterbar.\",\"url\":\"https://www.amazon.de/dp/B0GRHP57JJ?th=1&linkCode=ll2&tag=vankompass-21&linkId=e14fe2fead29ecd96b79074a8203204e&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B0GRHP57JJ\",\"code\":\"\",\"topics\":[\"camper\",\"camping\",\"vanlife\",\"wohnmobil\",\"strom\",\"powerstation\",\"mobile-stromversorgung\",\"lifepo4\",\"solar\"],\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. Tracking-ID: vankompass-21. ASIN: B0GRHP57JJ. Variante: 1800pro-a / AFERIY P180 Pro (Nomad 1800 Pro). Einzelgerät ohne Solarpanel und ohne zusätzliche Erweiterungsakkus. Zentrale Nutzungsfreigabe ausschließlich für VanKompass.\",\"origin\":\"Im Prototyp angelegt\",\"status\":\"aktiv\"},{\"id\":\"amazon-vankompass-B006G80Y0Q\",\"name\":\"Thetford Porta Potti 335 Qube\",\"description\":\"Kompakte tragbare Chemietoilette von Thetford, Modell 335 Qube (92828), weiß. Zweiteiliges System mit Frischwasser- und Fäkalientank für Camping und Camper.\",\"url\":\"https://www.amazon.de/dp/B006G80Y0Q?th=1&linkCode=ll2&tag=vankompass-21&linkId=02c4ac0397f80ee97d3087178644cbe7&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B006G80Y0Q\",\"topics\":[\"camping\",\"camper\",\"sanitär\",\"campingtoilette\",\"chemietoilette\",\"porta-potti\"],\"asin\":\"B006G80Y0Q\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B006G80Y0Q. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"},{\"id\":\"amazon-vankompass-B09VT4H86B\",\"name\":\"BOXIO TOILET – Trockentrenntoilette\",\"description\":\"Mobile Trockentrenntoilette von BOXIO im Euroboxformat 40 × 30 cm. Trennt flüssige und feste Ausscheidungen; Grundmodell ohne Wasser, Strom oder Toilettenchemie.\",\"url\":\"https://www.amazon.de/dp/B09VT4H86B?th=1&linkCode=ll2&tag=vankompass-21&linkId=be6b736b83481336f74e047bf7aa9c2d&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B09VT4H86B\",\"topics\":[\"camping\",\"camper\",\"sanitär\",\"campingtoilette\",\"trenntoilette\",\"boxio\"],\"asin\":\"B09VT4H86B\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B09VT4H86B. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"},{\"id\":\"amazon-vankompass-B073ZJ3L13\",\"name\":\"Victron SmartSolar MPPT 100/30\",\"description\":\"MPPT-Solarladeregler von Victron Energy für 12-/24-V-Batteriesysteme mit integriertem Bluetooth, maximal 100 V PV-Leerlaufspannung und 30 A Ladestrom. SmartSolar-Variante; elektrische Auslegung und Batteriekonfiguration müssen zum Fahrzeug passen. Im Vergleichsartikel ist nur Victron 100/30 genannt, die genaue Modellreihe bleibt redaktionell zu prüfen.\",\"url\":\"https://www.amazon.de/dp/B073ZJ3L13?th=1&linkCode=ll2&tag=vankompass-21&linkId=d33e6cbdfbcfbfff3e14df2726d206c2&ref_=as_li_ss_tl\",\"target\":\"https://www.amazon.de/dp/B073ZJ3L13\",\"topics\":[\"camper\",\"wohnmobil\",\"solar\",\"solaranlage\",\"laderegler\",\"mppt\",\"victron\"],\"asin\":\"B073ZJ3L13\",\"provider\":\"Amazon Associates\",\"category\":\"Produkt\",\"scope\":\"selected\",\"sites\":[\"2c5cba86-e337-4da3-acff-87a960bed33b\"],\"status\":\"aktiv\",\"origin\":\"Amazon SiteStripe\",\"trackingId\":\"vankompass-21\",\"notes\":\"Amazon SiteStripe · geprüft am 13.10.2026. ASIN: B073ZJ3L13. Tracking-ID: vankompass-21. Nur für VanKompass. Artikelplatzierungen warten auf Freigabe.\",\"code\":\"\"}]}"
+  },
+  "thresholds": {
+    "automatic": 95,
+    "review": 80
+  },
+  "researchImports": [
+    "vankompass-browser-research-2026-10-13-v1"
+  ],
+  "publicationRepairs": [
+    "f7a907d5ef91b4960bce3c4f7da128b77c6f43f5"
+  ]
+}
